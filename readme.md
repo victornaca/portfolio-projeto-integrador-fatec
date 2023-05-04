@@ -79,7 +79,7 @@ Ainda na função de DBA realizei criação e validação de DER(Diagrama Entida
 Abaixo irei demonstrar o DER apresentado como solução para a empresa parceira IACIT, escalavel e normalizado. 
 A ideia era quebrar o CSV que vinha com todos os dados por categoria, ja que a plotagem dos graficos e as gerações de insights seriam separadosm. Ao aplicar essa ideia tivemos um ganho na velocidade dos scripts e na geração dos graficos, mesmo tendo milhões de linhas.
 
-![image]('https://raw.githubusercontent.com/fluffyfatec/Iacit/Sprint-4/GIT/DERCSV.jpg)
+<img align="center" alt="Victor" height="100%" width="100%" src="https://github.com/fluffyfatec/Iacit/blob/Sprint-4/GIT/DERCSV.jpg">
 
 Abaixo irei demonstrar a Trigger para Log de Auditoria criado para o projeto:
 
