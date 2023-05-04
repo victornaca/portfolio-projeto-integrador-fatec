@@ -1,15 +1,20 @@
 <h1 p align="center"> 
 Victor Fernandes dos Santos | Portifólio
 <p align="center"> 
- <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Curso%3A-Banco de Dados-purple"/></a>
- <a href="https://discordpy.readthedocs.io/en/stable/"><img src="https://img.shields.io/badge/Linguagem Principal%3A-Python-purple"/></a>
- <a href="https://squarecloud.app/"><img src="https://img.shields.io/badge/Metodologia%3A-API-purple"/></a>
+ <a href="https://fatecsjc-prd.azurewebsites.net/curso-banco-de-dados.php"><img src="https://img.shields.io/badge/Curso%3A-Banco de Dados-purple"/></a>
+ <a href=""><img src="https://img.shields.io/badge/Linguagem Principal%3A-Java & JavaScript-purple"/></a>
+ <a href="https://fatecsjc-prd.azurewebsites.net/aprendizagem-por-projetos-integrados.php"><img src="https://img.shields.io/badge/Metodologia%3A-API-purple"/></a>
+ <a href="https://www.linkedin.com/in/victorfernandescpv/"><img src="https://img.shields.io/badge/Contato%3A-Linkedin-blue"/></a>
 </p> 
 
 ## Introdução
 >### O que é API?
-O termo API vem de Aprendendo por Projeto Integrador é um texto modelo da indústria tipográfica e de impressão. <p>
-O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada.
+A API (Aprendizagem por Projetos Integrados), desenvolvida no escopo do CADI, é a metodologia de ensino em implantação na Fatec São José dos Campos, desde o Segundo Semestre de 2019 (nos cursos da área de Computação, porém, a metodologia estará completamente implantada em todos os períodos até Primeiro Semestre de 2022).
+
+>#### Pilares da API
+- Real Problem Based Learning (rPBL)
+- Validação Externa
+- Mindset Ágil (Agile)
 
 >### O que é Banco de Dados?
 Além de projetar, implementar e gerenciar sistemas de banco de dados, o profissional desenvolve métodos para o uso de informações no apoio à tomada de decisões gerenciais.
