@@ -79,8 +79,12 @@ Ainda na função de DBA realizei criação e validação de DER(Diagrama Entida
 Abaixo irei demonstrar o DER apresentado como solução para a empresa parceira IACIT, escalavel e normalizado. 
 A ideia era quebrar o CSV que vinha com todos os dados por categoria, ja que a plotagem dos graficos e as gerações de insights seriam separadosm. Ao aplicar essa ideia tivemos um ganho na velocidade dos scripts e na geração dos graficos, mesmo tendo milhões de linhas.
 
+<details>
+<summary>Diagrama Entidade Relacionamento</summary>
 <img align="center" alt="Victor" height="100%" width="100%" src="https://github.com/fluffyfatec/Iacit/blob/Sprint-4/GIT/DERCSV.jpg">
-
+</details>
+<details>
+<summary>Trigger Log de Auditoria</summary>
 Abaixo irei demonstrar a Trigger para Log de Auditoria criado para o projeto:
 
 ```sql
@@ -130,12 +134,10 @@ $tr_tb_usuario$ LANGUAGE plpgsql;
 ```
 
 Basicamente a Trigger foi utilizada pegando os novos ou antigos dados para gerar um histórico onde poderiamos ver o que foi realizado por usuario X ou Y. Esse log foi feito tanto para usuario como para alterações nas estações.
+</details>
 
 >#### Aprendizados Efetivos
 
-Nesse projeto tive uma curta experiencia (nas adequadas proporções) de como é realizada a função do DBA junto ao time de desenvolvimento, realizando a construção de toda arquitetura da aplicação pensando em como irá reagir os dados ao longo do projeto.
-Um projeto que além de conter muitas linhas de dados também possuiu muita requisição para realizar as plotagens dos graficos e geração dos realatórios.
+-Experiencia efetiva como DBA realizando desde a construção da estrutura até manter a escabilidade do mesmo;
 
-Também no mesmo projeto tive o primeiro contato com as triggers e functions, construindo um log de auditoria mesmos sem saber quais os elementos necessarios para ser considerado um log de auditoria.
-
-Vale destacar também que foi o primeiro contato com o SGBD PostgreSQL em modo local. Um bom SGBD por ser gratuito de ter boas funções administrativas mas que ainda possui alguns bugs, algumas dificuldades e lentidão anormal para executar alguns processos.
+-Construção de log de auditoria utilizando Trigger e Function;
