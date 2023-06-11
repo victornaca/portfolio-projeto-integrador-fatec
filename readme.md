@@ -140,4 +140,8 @@ Basicamente a Trigger foi utilizada pegando os novos ou antigos dados para gerar
 
 -Experiencia efetiva como DBA realizando desde a construção da estrutura até manter a escabilidade do mesmo;
 
+-Experiencia e primeiro contato com Java Spring Boot;
+
+-Mapeamento de tabelas e utilização do JPA para manipulação dos dados no banco;
+
 -Construção de log de auditoria utilizando Trigger e Function;
