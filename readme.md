@@ -1,11 +1,5 @@
 <h1 p align="center"> 
-Victor Fernandes dos Santos | Portifólio
-<p align="center"> 
- <a href="https://fatecsjc-prd.azurewebsites.net/curso-banco-de-dados.php"><img src="https://img.shields.io/badge/Curso%3A-Banco de Dados-purple"/></a>
- <a href=""><img src="https://img.shields.io/badge/Linguagem Principal%3A-Java & JavaScript-purple"/></a>
- <a href="https://fatecsjc-prd.azurewebsites.net/aprendizagem-por-projetos-integrados.php"><img src="https://img.shields.io/badge/Metodologia%3A-API-purple"/></a>
- <a href="https://www.linkedin.com/in/victorfernandescpv/"><img src="https://img.shields.io/badge/Contato%3A-Linkedin-blue"/></a>
-</p> 
+Victor Fernandes dos Santos | Portifólio das APIs 
 
 ## Introdução
 >### O que é API?
@@ -23,10 +17,17 @@ Um banco de dados é um sistema de armazenamento de informações que permite qu
 
 Faz parte da rotina de trabalho do profissional de Banco de Dados organizar as informações da empresa, garantir a segurança, definir as permissões de acesso ao sistema e desenvolver códigos.
 
->### Quem sou eu?
-Estudante de Tecnologo em Banco de Dados e apaixonado por dados, me chamo Victor Fernandes dos Santos, possuo 24 anos e atualmente sou estágiario de consumo irregular pela EDP São Paulo, estágio esse onde realizo ETL de dados, automações de processos em linguagem Python e visualização de gráficos em BI.
+>### Sobre mim
+<p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Resume/fotoperfil.png" width="20%"></p>
+Sou formado como Técnico em Tecnologia da Informação pela Escola Tecnológica de Caçapava (ETEC) e atualmente estou matriculado no 5º semestre do curso tecnólogo em Banco de Dados na Faculdade de Tecnologia de São José dos Campos (FATEC).
 
-Iniciei a faculdade por incentivo de colegas que viram potencial na minha facilidade de modelagem de dados e com a linguagem de SQL.
+Minha trajetória profissional inclui experiência na área de tecnologia e dados. Antes de ingressar na faculdade, tive a oportunidade de trabalhar como auxiliar de TI em uma rede de supermercados, a Rede Simpatia, onde retomei meu contato com a tecnologia e dados.
+
+Durante o meu período na faculdade, realizei um estágio como Analista de Dados na EDP Brasil, onde participei ativamente de projetos de redução de custos no cluster e da reestruturação de jobs no nosso Lakehouse, resultando em uma economia significativa de 40% para o cluster.
+
+Atualmente, estou empregado na Safran como Analista de Dados, enfrentando o desafio de estabelecer uma equipe de dados que atende não apenas o Brasil, mas também países da América, incluindo México e EUA.
+
+Ao longo da minha jornada, pretendo adquirir mais experiência nas áreas de programação, dados e inteligência artificial, além de continuar meus estudos e obter certificações de mestrado e doutorado. Essa ampla gama de conhecimentos me ajudará a concretizar meu objetivo de, no futuro, fundar minha própria empresa na área de tecnologia.
 
 >### Principais Conhecimentos
 
@@ -36,6 +37,8 @@ Uma das minhas principais linguagens onde tive o conhecimento prévio em 2015 co
 Hoje é uma das minhas principais linguagens no trabalho para trabalho de ETL e analise de dados.
 
 ## Meus Projetos
+>### Dashboard COVID-19 - Interno | 2021-2
+
 >### Automatização e Visualização dos Dados - IACIT | 2022-2
 
 A IACIT é uma empresa de consultoria meteorológica, e hoje um de seus serviços é fornecer aos clientes relatórios customizados de dados meteorológicos. Como a empresa trabalha processando muitas informações manualmente acabam que perdendo tempo e desperdiçando recursos. 
@@ -79,8 +82,12 @@ Ainda na função de DBA realizei criação e validação de DER(Diagrama Entida
 Abaixo irei demonstrar o DER apresentado como solução para a empresa parceira IACIT, escalavel e normalizado. 
 A ideia era quebrar o CSV que vinha com todos os dados por categoria, ja que a plotagem dos graficos e as gerações de insights seriam separadosm. Ao aplicar essa ideia tivemos um ganho na velocidade dos scripts e na geração dos graficos, mesmo tendo milhões de linhas.
 
+<details>
+<summary>Diagrama Entidade Relacionamento</summary>
 <img align="center" alt="Victor" height="100%" width="100%" src="https://github.com/fluffyfatec/Iacit/blob/Sprint-4/GIT/DERCSV.jpg">
-
+</details>
+<details>
+<summary>Trigger Log de Auditoria</summary>
 Abaixo irei demonstrar a Trigger para Log de Auditoria criado para o projeto:
 
 ```sql
@@ -130,12 +137,10 @@ $tr_tb_usuario$ LANGUAGE plpgsql;
 ```
 
 Basicamente a Trigger foi utilizada pegando os novos ou antigos dados para gerar um histórico onde poderiamos ver o que foi realizado por usuario X ou Y. Esse log foi feito tanto para usuario como para alterações nas estações.
+</details>
 
 >#### Aprendizados Efetivos
 
-Nesse projeto tive uma curta experiencia (nas adequadas proporções) de como é realizada a função do DBA junto ao time de desenvolvimento, realizando a construção de toda arquitetura da aplicação pensando em como irá reagir os dados ao longo do projeto.
-Um projeto que além de conter muitas linhas de dados também possuiu muita requisição para realizar as plotagens dos graficos e geração dos realatórios.
+-Experiencia efetiva como DBA realizando desde a construção da estrutura até manter a escabilidade do mesmo;
 
-Também no mesmo projeto tive o primeiro contato com as triggers e functions, construindo um log de auditoria mesmos sem saber quais os elementos necessarios para ser considerado um log de auditoria.
-
-Vale destacar também que foi o primeiro contato com o SGBD PostgreSQL em modo local. Um bom SGBD por ser gratuito de ter boas funções administrativas mas que ainda possui alguns bugs, algumas dificuldades e lentidão anormal para executar alguns processos.
+-Construção de log de auditoria utilizando Trigger e Function;
