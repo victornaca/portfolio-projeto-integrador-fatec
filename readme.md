@@ -21,23 +21,32 @@ Faz parte da rotina de trabalho do profissional de Banco de Dados organizar as i
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Resumo/VictorFernandes.png" width="20%"></p>
 Sou formado como Técnico em Tecnologia da Informação pela Escola Tecnológica de Caçapava (ETEC) e atualmente estou matriculado no 5º semestre do curso tecnólogo em Banco de Dados na Faculdade de Tecnologia de São José dos Campos (FATEC).
 
-Minha trajetória profissional inclui experiência na área de tecnologia e dados. Antes de ingressar na faculdade, tive a oportunidade de trabalhar como auxiliar de TI em uma rede de supermercados, a Rede Simpatia, onde retomei meu contato com a tecnologia e dados.
+Em minha trajetória profissional  está presente uma vasta experiência na área de tecnologia e dados, mesmo antes de ingressar na faculdade. Minha primeira oportunidade foi numa rede de supermercados, a Rede Simpatia, onde trabalhei como auxiliar de TI e logo retomei meu contato com a tecnologia e dados.
 
-Durante o meu período na faculdade, realizei um estágio como Analista de Dados na EDP Brasil, onde participei ativamente de projetos de redução de custos no cluster e da reestruturação de jobs no nosso Lakehouse, resultando em uma economia significativa de 40% para o cluster.
+Já na faculdade, tive a oportunidade de participar ativamente de projetos de redução de custos no cluster e da reestruturação de jobs no nosso Lakehouse, resultando em uma economia significativa de 40% para o cluster, durante o meu período de estágio como como Analista de Dados na EDP Brasil. 
 
-Atualmente, estou empregado na Safran como Analista de Dados, enfrentando o desafio de estabelecer uma equipe de dados que atende não apenas o Brasil, mas também países da América, incluindo México e EUA.
+Atualmente estou enfrentando o desafio de estabelecer uma equipe de dados que atende não apenas o Brasil, mas também países da América, incluindo México e EUA como como Analista de Dados na Safran. 
 
-Ao longo da minha jornada, pretendo adquirir mais experiência nas áreas de programação, dados e inteligência artificial, além de continuar meus estudos e obter certificações de mestrado e doutorado. Essa ampla gama de conhecimentos me ajudará a concretizar meu objetivo de, no futuro, fundar minha própria empresa na área de tecnologia.
+Visando concretizar o desejo de, no futuro, fundar minha própria empresa na área de tecnologia, além de obter outras certificações como mestrado e doutorado, tenho como objetivo adquirir mais conhecimento e experiência nas áreas de programação, dados e inteligência artificial, áreas que me fascinam. 
 
->### Principais Conhecimentos
+Minha jornada é forjada com a paixão pela tecnologia, guiada pela inovação e embalada pelo orgulho de trilhar meu próprio caminho, rumo ao horizonte brilhante que construo com minhas próprias mãos.
 
->#### SQL
+## Meu Time
+Jamais poderia esquecer do meu time onde sem eles, nada disso nunca teria acontecido.
 
-Uma das minhas principais linguagens onde tive o conhecimento prévio em 2015 com o Tecnico de Tecnologia da Informação realizado na ETEC Machado de Assis. Após minha formação em técnico deixei a linguagem e a tecnologia de lado na tentativa de realizar outros planos quando recebi o convite para trabalho de suporte onde voltei a ter contato com o SQL.
-Hoje é uma das minhas principais linguagens no trabalho para trabalho de ETL e analise de dados.
+Tudo deu inicio no primeiro semestre (remoto), onde muito antes de formar os grupos o Luiz me chamou e me propos escolher a dedo as pessoas com base no pouco que tinhamos ja que as aulas estavam em seu ambiente remoto por conta da pandemia.
+
+Ao entrar era dita a frase "bem-vindo ao grupo mais fofo da fatec" uma brincadeira de onde se originou o nome posteriormente.
+
+Com idas e vindas, projetos passando, hoje estamos em sete pessoas Aldrik, Luiz, Ana, Emanuele, Michael, Tiago e eu. Pessoas as quais sou muito grato e também grato a outros que ficaram pelo caminho mas que em algum momento abraçou a idea do grupo.
+
+O Fluffy foi desenvolvido para ser o melhor, nunca quisemos agradar nenhuma pessoa ou professor especifico, o grupo foi criado exclusivamente para cumprir requisitos e entregar o melhor produto ao cliente, sabendo que isso nos retornaria em forma de conhecimento e portifolio, nos dando vantagens em uma disputa por vagas futuras.
+
+Deixo aqui registrado que o Fluffy mesmo no seu fim ainda será comentado por muitos longos semestres, enquanto existir API como exemplo de entrega (ou como cabeças duas que fomos tambem).
 
 ## Meus Projetos
->### Dashboard COVID-19 - Interno | 2021-2
+>### Dashboard COVID-19 - Cliente: Interno | 2021-2
+
 
 >### Automatização e Visualização dos Dados - IACIT | 2022-2
 
