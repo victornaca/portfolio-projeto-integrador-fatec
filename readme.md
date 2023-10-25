@@ -18,7 +18,7 @@ Um banco de dados é um sistema de armazenamento de informações que permite qu
 Faz parte da rotina de trabalho do profissional de Banco de Dados organizar as informações da empresa, garantir a segurança, definir as permissões de acesso ao sistema e desenvolver códigos.
 
 >### Sobre mim
-<p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Resume/fotoperfil.png" width="20%"></p>
+<p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Resumo/VictorFernandes.png" width="20%"></p>
 Sou formado como Técnico em Tecnologia da Informação pela Escola Tecnológica de Caçapava (ETEC) e atualmente estou matriculado no 5º semestre do curso tecnólogo em Banco de Dados na Faculdade de Tecnologia de São José dos Campos (FATEC).
 
 Minha trajetória profissional inclui experiência na área de tecnologia e dados. Antes de ingressar na faculdade, tive a oportunidade de trabalhar como auxiliar de TI em uma rede de supermercados, a Rede Simpatia, onde retomei meu contato com a tecnologia e dados.
