@@ -42,7 +42,7 @@ Com idas e vindas, projetos passando, hoje estamos em sete pessoas Aldrik, Luiz,
 
 O Fluffy foi desenvolvido para ser o melhor, nunca quisemos agradar nenhuma pessoa ou professor especifico, o grupo foi criado exclusivamente para cumprir requisitos e entregar o melhor produto ao cliente, sabendo que isso nos retornaria em forma de conhecimento e portifolio, nos dando vantagens em uma disputa por vagas futuras.
 
-Deixo aqui registrado que o Fluffy mesmo no seu fim ainda será comentado por muitos longos semestres, enquanto existir API como exemplo de entrega (ou como cabeças duas que fomos tambem).
+Deixo aqui registrado que o Fluffy mesmo no seu fim ainda será comentado por muitos longos semestres, enquanto existir API como exemplo de entrega (ou como cabeças duras que fomos também).
 
 ## Meus Projetos
 >### Dashboard COVID-19 - Cliente: Interno | 2021-2
