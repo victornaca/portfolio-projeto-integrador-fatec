@@ -34,6 +34,7 @@ Victor Fernandes dos Santos | Portifólio das APIs
 <p align="justify">Deixo aqui registrado que o Fluffy mesmo no seu fim ainda será comentado por muitos longos semestres, enquanto existir API como exemplo de entrega (ou como cabeças duras que fomos também).</p>
 
 <h2>Meus Projetos</h2>
+<p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/SPanel.png" width="100%"></p>
 <h3>SPanel - Dashboard COVID-19</h3>
 <h4>1º Semestre • 7/2020 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a></p>
@@ -292,14 +293,15 @@ Além disso, tive meu primeiro contato com triggers e procedures, criando um Log
 <h5>Atenção aos Detalhes:</h5>
 <p align="justify">Como DBA, a precisão é fundamental. Você demonstrou uma forte atenção aos detalhes ao desenvolver e manter o banco de dados, garantindo sua consistência e integridade.</p>
 
-<h3>Aircraft Configuration Control</h3>
+<h3>Controle de Configurações de Aeronaves</h3>
 <h4>4º Semestre • 1/2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">EMBRAER</a></p>
-<p align="justify">A IACIT, uma empresa especializada em consultoria meteorológica, atualmente oferece aos seus clientes relatórios personalizados de dados meteorológicos. No entanto, devido ao processo manual de processamento de muitas informações, a empresa acaba perdendo tempo e desperdiçando recursos.</p>
-<p align="justify">Diante desse desafio, a Fluffy, em colaboração com a IACIT, propõe o desenvolvimento de um sistema que possibilite a importação eficiente dos dados meteorológicos, além de armazená-los em um banco de dados. Essa solução visa otimizar o processo, permitindo a geração ágil de relatórios sob medida para atender às demandas específicas dos clientes da IACIT.</p>
+<p align="justify">O objetivo do nosso projeto é desenvolver um sistema de Controle de Configuração de Aeronaves (ACC) para a Embraer, Empresa Brasileira de Aeronáutica. A Embraer é responsável pela fabricação de aeronaves militares, comerciais, executivas e agrícolas. Sendo a terceira maior empresa do mundo na aviação executiva, a Embraer está gradualmente a reduzir o domínio das empresas europeias e americanas no sector.
+</p>
+<p align="justify">Com o ACC, a Embraer poderá gerenciar e controlar a configuração de suas aeronaves, proporcionando uma solução eficiente e eficaz para otimizar seu processo produtivo. O sistema permitirá que os pilotos verifiquem a configuração da aeronave que estão voando, comparem os itens presentes e saibam se existem Follow-on-Limitations (FOLs) para elas, garantindo assim a qualidade do despacho.</p>
 
 <h4>Prévia da Solução</h4>
-<p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo tratamento dos dados e banco de dados, outra pelo backend e a ultima pelo frontend.</p>
+<p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo banco de dados, outra pelo backend e a ultima pelo frontend.</p>
 <h5>Banco de Dados:</h5>
 <p align="justify">Como mencionado pelo cliente, o volume de dados ultrapassavam de 13 milhoes de linhas e precisava de uma estrutura relacional que fosse escalavel e tivesse uma velocidade consideravel para plotagem de graficos e exportação dessas informações.</p>
 <h5>Tratamento dos dados:</h5>
