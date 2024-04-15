@@ -37,7 +37,7 @@ Victor Fernandes dos Santos | Portifólio das APIs
 <h2>Meus Projetos</h2>
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/SPanel.png" width="100%"></p>
 <h3>SPanel - Dashboard COVID-19</h3>
-<h4>1º Semestre • 7/2020 </h4>
+<h4>1º Semestre • 07/2021 - 12/2021 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a></p>
 <p align="justify">O SPanel é um painel web construído em Python com Bootstrap, desenvolvido com o propósito de, no auge da pandemia, carregar os dados em arquivos CSV disponibilizados pelo Governo Brasileiro e transformá-los em uma visualização simples e fácil para que qualquer usuário pudesse acompanhar os principais indicadores, como imunizados, óbitos, casos, letalidade, entre outros.</p>
 
@@ -111,7 +111,7 @@ Além de ter explorado a linguagem de programação Python, uma ferramenta vers�
 
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/DomRock.png" width="100%"></p>
 <h3>Sistema de Gerenciamento de Clientes</h3>
-<h4>2º Semestre • 1/2021 </h4>
+<h4>2º Semestre • 01/2022 - 07/2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Dom Rock</a></p>
 <p align="justify">
 O produto para Dom Rock foi desenvolvido em Java para desktop, fazendo uso da tecnologia JavaFX na construção da interface gráfica. Além de realizar o cadastro de clientes e gerenciar suas informações básicas, o sistema de gerenciamento também lida com as informações de escopo e todas as etapas necessárias para uma aplicação mais eficiente dos produtos oferecidos pela Dom Rock.</p>
@@ -203,7 +203,7 @@ Aprendi a lidar com uma variedade de personalidades e características individua
 
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/Iacit.png" width="100%"></p>
 <h3>Automatização e Visualização dos Dados</h3>
-<h4>3º Semestre • 7/2021 </h4>
+<h4>3º Semestre • 07/2022 - 12/2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">IACIT</a></p>
 <p align="justify">A IACIT, uma empresa especializada em consultoria meteorológica, atualmente oferece aos seus clientes relatórios personalizados de dados meteorológicos. No entanto, devido ao processo manual de processamento de muitas informações, a empresa acaba perdendo tempo e desperdiçando recursos.</p>
 <p align="justify">Diante desse desafio, a Fluffy, em colaboração com a IACIT, propõe o desenvolvimento de um sistema que possibilite a importação eficiente dos dados meteorológicos, além de armazená-los em um banco de dados. Essa solução visa otimizar o processo, permitindo a geração ágil de relatórios sob medida para atender às demandas específicas dos clientes da IACIT.</p>
@@ -298,7 +298,7 @@ Além disso, tive meu primeiro contato com triggers e procedures, criando um Log
 
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/Embraer.png" width="100%"></p>
 <h3>Controle de Configurações de Aeronaves</h3>
-<h4>4º Semestre • 1/2022 </h4>
+<h4>4º Semestre • 01/2023 - 07/2023 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">EMBRAER</a></p>
 <p align="justify">O objetivo do nosso projeto é desenvolver um sistema de Controle de Configuração de Aeronaves (ACC) para a Embraer, Empresa Brasileira de Aeronáutica. A Embraer é responsável pela fabricação de aeronaves militares, comerciais, executivas e agrícolas. Sendo a terceira maior empresa do mundo na aviação executiva, a Embraer está gradualmente a reduzir o domínio das empresas europeias e americanas no sector.
 </p>
@@ -306,51 +306,38 @@ Além disso, tive meu primeiro contato com triggers e procedures, criando um Log
 
 <h4>Prévia da Solução</h4>
 <p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo banco de dados, outra pelo backend e a ultima pelo frontend.</p>
-<h5>Banco de Dados:</h5>
-<p align="justify">Como mencionado pelo cliente, o volume de dados ultrapassavam de 13 milhoes de linhas e precisava de uma estrutura relacional que fosse escalavel e tivesse uma velocidade consideravel para plotagem de graficos e exportação dessas informações.</p>
-<h5>Tratamento dos dados:</h5>
-<p align="justify">O cliente possuía um site onde capturava esses CSVs com dados meteorológicos. O que fizemos foi automatizar a captação diária, transformar utilizando Python (Pandas) e carregar em um banco de dados relacional.</p>
-<h5>Indicadores:</h5>
-<p align="justify">Elaboramos indicadores diversificados, apresentando os dados brutos de cada indicador em cartões, acompanhados por gráficos gerados a partir das informações disponíveis e filtros personalizados para cada tipo de conjunto de dados (vento, temperatura e etc).</p>
-<h5>Exportações e Relatórios:</h5>
-<p align="justify">Criamos um sistema de relatórios que ele poderia tanto puxar os dados em formato de uma tabela como exportar graficos personalizados.</p>
-<h5>Logs de Auditoria:</h5>
-<p align="justify">Através de triggers do banco de dados criamos um sistema de logs de auditorias mapeando as principais funções que o usuario realizava.</p>
-<h5>Criações de Estados e Estações:</h5>
-<p align="justify">Em vez de se criar um CRUD para a inserção dessas informações utilizamos o proprio CSV como base para cadastrar automaticamente essas informações caso novas estações fossem criadas.</p>
+<h5>Injestão de CSV:</h5>
+<p align="justify">A ingestão de CSV é importante porque facilita a atualização e a inserção de informações no sistema de forma rápida e eficiente. Como a Embraer lida com uma grande variedade de aeronaves e configurações, é fundamental ter uma maneira eficaz de incorporar novos dados de configuração ou fazer alterações nos existentes.</p>
+<h5>Visualizar Itens:</h5>
+<p align="justify">O cliente deseja ter a capacidade de visualizar os itens relacionados àquele Chassis, incluindo os já instalados, os que poderiam ser instalados e aqueles que não são aplicáveis. Essa funcionalidade proporcionará uma visão abrangente da configuração atual e das possíveis modificações para o Chassis em questão</p>
+<h5>Visualizar Chassis:</h5>
+<p align="justify">O cliente deseja ter a capacidade de visualizar todos os chassis associados à sua conta, enquanto os pilotos devem ser capazes de acessar os chassis que estão designados para pilotar. Por sua vez, os administradores terão permissão para visualizar todos os chassis cadastrados no sistema.</p>
+<h5>Exportações do Manual:</h5>
+<p align="justify">O piloto teria a capacidade de acessar o manual específico do chassi associado à aeronave que está pilotando. Este manual conteria detalhes sobre os itens específicos contidos naquele chassi, incluindo componentes instalados, itens disponíveis para instalação e quaisquer restrições ou limitações relevantes.</p>
+<h5>Lógica de Ordem de Serviço:</h5>
+<p align="justify">Através da lógica de ordem de serviço, um item seria automaticamente disponibilizado se atendesse aos requisitos dos serviços já aplicados no chassi. Isso significa que, após a conclusão dos serviços necessários ou upgrades em um chassi específico, os itens correspondentes seriam automaticamente marcados como disponíveis para instalação.</p>
 
 <h4>Tecnologias Utilizadas</h4>
-<p align="justify"><a href="https://www.python.org/">Python</a>: Linguagem utilizada para tratamento dos dados, automação e upload no banco de dados.</p>
 <p align="justify"><a href="https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html">Java 14</a>: Linguagem utilizada para desenvolvimento da aplicação back-end.</p>
 <p align="justify"><a href="https://spring.io/projects/spring-boot">Spring Boot</a>: Para criação das API's REST do backend e sistema de acessos.</p>
 <p align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: Para consumir as API's e trazer para a interface.</p>
-<p align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>: Para desenvolvimento da interface.</p>
-<p align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>: Para estilizar a interface.</p>
-<p align="justify"><a href="https://www.chartjs.org/">Chart.js</a>: Biblioteca de gráficos JavaScript simples, porém flexível, para a web moderna.</p>
-<p align="justify"><a href="https://www.postgresql.org/">PostgreSQL</a>: Sistema de Gerenciamento de Banco de Dados para desenvolvimento do projeto.</p>
+<p align="justify"><a href="https://vuejs.org/">VUE.js</a>: Framework para auxiliar na componentização da aplicação.</p>
+<p align="justify"><a href="https://www.oracle.com/br/database//">Oracle Cloud</a>: Sistema de Gerenciamento de Banco de Dados em cloud.</p>
 
 <h4>Contribuições Pessoais</h4>
 <p align="justify">
-Além de desempenhar integralmente a função de DBA no banco de dados, realizando todo o processo de levantamento da infraestrutura do banco com foco no escalonamento dos dados, que ultrapassaram 13 milhões de linhas.</p>
-<p align="justify">
-Ainda na posição de DBA, executei a criação e validação do DER (Diagrama Entidade Relacionamento), Diagrama Lógico, Biblioteca de Dados e a criação do banco e tabelas. Um dos meus principais desafios no projeto foi a implementação do log de auditoria por meio de Trigger.
-</p>
+Minha contribuição pessoal foi desempenhar a função de desenvolvedor backend utilizando o framework Spring Boot. Durante esse processo, fui responsável por criar endpoints que desempenharam um papel crucial em auxiliar meus colegas no avanço do projeto. Ao desenvolver esses endpoints, meu objetivo era fornecer soluções eficientes e robustas que facilitassem a integração de diferentes componentes do sistema. </p>
+
 <ul>
-  <li>Desenvolvimento do Diagrama Entidade Relacionamento.</li>
-  <li>Desenvolvimento do Diagrama Lógico.</li>
-  <li>Desenvolvimento da Biblioteca de Dados.</li>
-  <li>Desenvolvimento do Banco de Dados.</li>
-  <li>Manutenção do Banco de Dados.</li>
-  <li>Criação do Log de Auditoria usando Triggers e Procedures</li>
+  <li>Desenvolvimento de endpoints da API.</li>
+  <li>Implementação da lógica de negócios.</li>
+  <li>Integração com o banco de dados.</li>
+  <li>Implementação de segurança.</li>
 </ul>
 
 <h4>Lições Aprendidas</h4>
 <p align="justify">
-Aprendi a função de DBA, mesmo em seu nível mais básico, onde desenvolvi toda a concepção e diagramas, considerando as regras de negócios e funcionalidades discutidas com o cliente
-</p>
-<p align="justify">
-Além disso, tive meu primeiro contato com triggers e procedures, criando um Log de Auditoria altamente funcional, que se destacou como diferencial no projeto.
-</p>
+Foi fantástico perceber que consegui avançar no desenvolvimento backend! Sempre achei que teria dificuldade com Java, mas ao longo do processo, comecei a gostar da linguagem e a encontrar uma certa facilidade em entender os processos e padrões, como Repository, Controller e Service. Foi uma jornada de aprendizado incrível e estou animado para continuar a me aprimorar nessa área.
 
 <h4>Hard Skills</h4>
 <table>
@@ -360,19 +347,11 @@ Além disso, tive meu primeiro contato com triggers e procedures, criando um Log
   </tr>
   <tr>
     <td>Spring Boot</td>
-    <td>★★☆☆☆☆☆☆☆☆</td>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td>★★☆☆☆☆☆☆☆☆</td>
-  </tr>
-  <tr>
-    <td>PostgreSQL</td>
     <td>★★★★★☆☆☆☆☆</td>
   </tr>
   <tr>
-    <td>Figma</td>
-    <td>★★★★★★☆☆☆☆</td>
+    <td>Banco de Dados</td>
+    <td>★★★★★★★☆☆☆</td>
   </tr>
   <tr>
     <td>SQL</td>
@@ -385,9 +364,84 @@ Além disso, tive meu primeiro contato com triggers e procedures, criando um Log
 </table>
 
 <h4>Soft Skills</h4>
-<h5>Colaboração e Comunicação</h5>
-<p align="justify">Trabalhar como DBA muitas vezes requer colaboração estreita com outros membros da equipe, como desenvolvedores e administradores de sistemas. Sua capacidade de comunicar efetivamente e colaborar com outros departamentos foi crucial para o sucesso do projeto.</p>
-<h5>Gerenciamento de Projetos:</h5>
-<p align="justify">Liderei a implantação da infraestrutura do banco de dados, demonstrando habilidades de gerenciamento de projetos para garantir que as necessidades de escalonamento dos dados fossem atendidas de forma eficaz.</p>
-<h5>Atenção aos Detalhes:</h5>
-<p align="justify">Como DBA, a precisão é fundamental. Você demonstrou uma forte atenção aos detalhes ao desenvolver e manter o banco de dados, garantindo sua consistência e integridade.</p>
+<h5>Resiliência:</h5>
+<p align="justify">A resiliência foi uma habilidade essencial que desenvolvi ao trabalhar com Java. Enquanto eu me deparava com desafios e complexidades na linguagem, aprendi a persistir e a encontrar maneiras de superar as dificuldades. </p>
+<h5>Adaptabilidade:</h5>
+<p align="justify">Como em outros projetos tive pouco contato com backend Java, assumir a responsabilidade de ser backend e entregar tudo que foi proposto foi um grande desafio.</p>
+<h5>Pensamento analítico:</h5>
+<p align="justify">A complexidade envolvida no desenvolvimento de software nessa linguagem me incentivou a analisar problemas de forma mais crítica e a buscar soluções bem fundamentadas.</p>
+
+<p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/Oracle.png" width="100%"></p>
+<h3>Análise e Gerenciamento de Restaurantes</h3>
+<h4>5º Semestre • 07/2023 - 12/2023 </h4>
+<p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">EMBRAER</a></p>
+<p align="justify">O objetivo do nosso projeto é desenvolver um sistema de Controle de Configuração de Aeronaves (ACC) para a Embraer, Empresa Brasileira de Aeronáutica. A Embraer é responsável pela fabricação de aeronaves militares, comerciais, executivas e agrícolas. Sendo a terceira maior empresa do mundo na aviação executiva, a Embraer está gradualmente a reduzir o domínio das empresas europeias e americanas no sector.
+</p>
+<p align="justify">Com o ACC, a Embraer poderá gerenciar e controlar a configuração de suas aeronaves, proporcionando uma solução eficiente e eficaz para otimizar seu processo produtivo. O sistema permitirá que os pilotos verifiquem a configuração da aeronave que estão voando, comparem os itens presentes e saibam se existem Follow-on-Limitations (FOLs) para elas, garantindo assim a qualidade do despacho.</p>
+
+<h4>Prévia da Solução</h4>
+<p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo banco de dados, outra pelo backend e a ultima pelo frontend.</p>
+<h5>Injestão de CSV:</h5>
+<p align="justify">A ingestão de CSV é importante porque facilita a atualização e a inserção de informações no sistema de forma rápida e eficiente. Como a Embraer lida com uma grande variedade de aeronaves e configurações, é fundamental ter uma maneira eficaz de incorporar novos dados de configuração ou fazer alterações nos existentes.</p>
+<h5>Visualizar Itens:</h5>
+<p align="justify">O cliente deseja ter a capacidade de visualizar os itens relacionados àquele Chassis, incluindo os já instalados, os que poderiam ser instalados e aqueles que não são aplicáveis. Essa funcionalidade proporcionará uma visão abrangente da configuração atual e das possíveis modificações para o Chassis em questão</p>
+<h5>Visualizar Chassis:</h5>
+<p align="justify">O cliente deseja ter a capacidade de visualizar todos os chassis associados à sua conta, enquanto os pilotos devem ser capazes de acessar os chassis que estão designados para pilotar. Por sua vez, os administradores terão permissão para visualizar todos os chassis cadastrados no sistema.</p>
+<h5>Exportações do Manual:</h5>
+<p align="justify">O piloto teria a capacidade de acessar o manual específico do chassi associado à aeronave que está pilotando. Este manual conteria detalhes sobre os itens específicos contidos naquele chassi, incluindo componentes instalados, itens disponíveis para instalação e quaisquer restrições ou limitações relevantes.</p>
+<h5>Lógica de Ordem de Serviço:</h5>
+<p align="justify">Através da lógica de ordem de serviço, um item seria automaticamente disponibilizado se atendesse aos requisitos dos serviços já aplicados no chassi. Isso significa que, após a conclusão dos serviços necessários ou upgrades em um chassi específico, os itens correspondentes seriam automaticamente marcados como disponíveis para instalação.</p>
+
+<h4>Tecnologias Utilizadas</h4>
+<p align="justify"><a href="https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html">Java 14</a>: Linguagem utilizada para desenvolvimento da aplicação back-end.</p>
+<p align="justify"><a href="https://spring.io/projects/spring-boot">Spring Boot</a>: Para criação das API's REST do backend e sistema de acessos.</p>
+<p align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: Para consumir as API's e trazer para a interface.</p>
+<p align="justify"><a href="https://vuejs.org/">VUE.js</a>: Framework para auxiliar na componentização da aplicação.</p>
+<p align="justify"><a href="https://www.oracle.com/br/database//">Oracle Cloud</a>: Sistema de Gerenciamento de Banco de Dados em cloud.</p>
+
+<h4>Contribuições Pessoais</h4>
+<p align="justify">
+Minha contribuição pessoal foi desempenhar a função de desenvolvedor backend utilizando o framework Spring Boot. Durante esse processo, fui responsável por criar endpoints que desempenharam um papel crucial em auxiliar meus colegas no avanço do projeto. Ao desenvolver esses endpoints, meu objetivo era fornecer soluções eficientes e robustas que facilitassem a integração de diferentes componentes do sistema. </p>
+
+<ul>
+  <li>Desenvolvimento de endpoints da API.</li>
+  <li>Implementação da lógica de negócios.</li>
+  <li>Integração com o banco de dados.</li>
+  <li>Implementação de segurança.</li>
+</ul>
+
+<h4>Lições Aprendidas</h4>
+<p align="justify">
+Foi fantástico perceber que consegui avançar no desenvolvimento backend! Sempre achei que teria dificuldade com Java, mas ao longo do processo, comecei a gostar da linguagem e a encontrar uma certa facilidade em entender os processos e padrões, como Repository, Controller e Service. Foi uma jornada de aprendizado incrível e estou animado para continuar a me aprimorar nessa área.
+
+<h4>Hard Skills</h4>
+<table>
+  <tr>
+    <th width="300px">Tecnologia/Metodologia</th>
+    <th width="300px">Classificação</th>
+  </tr>
+  <tr>
+    <td>Spring Boot</td>
+    <td>★★★★★☆☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td>Banco de Dados</td>
+    <td>★★★★★★★☆☆☆</td>
+  </tr>
+  <tr>
+    <td>SQL</td>
+    <td>★★★★★★★☆☆☆</td>
+  </tr>
+    <tr>
+    <td>Git</td>
+    <td>★★★★★★☆☆☆☆</td>
+  </tr>
+</table>
+
+<h4>Soft Skills</h4>
+<h5>Resiliência:</h5>
+<p align="justify">A resiliência foi uma habilidade essencial que desenvolvi ao trabalhar com Java. Enquanto eu me deparava com desafios e complexidades na linguagem, aprendi a persistir e a encontrar maneiras de superar as dificuldades. </p>
+<h5>Adaptabilidade:</h5>
+<p align="justify">Como em outros projetos tive pouco contato com backend Java, assumir a responsabilidade de ser backend e entregar tudo que foi proposto foi um grande desafio.</p>
+<h5>Pensamento analítico:</h5>
+<p align="justify">A complexidade envolvida no desenvolvimento de software nessa linguagem me incentivou a analisar problemas de forma mais crítica e a buscar soluções bem fundamentadas.</p>
