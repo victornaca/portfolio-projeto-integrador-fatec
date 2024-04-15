@@ -18,7 +18,7 @@ Victor Fernandes dos Santos | Portifólio das APIs
 <p align="justify">Faz parte da rotina de trabalho do profissional de Banco de Dados organizar as informações da empresa, garantir a segurança, definir as permissões de acesso ao sistema e desenvolver códigos.</p>
 
 <h3>Sobre mim</h3>
-<p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Resumo/VictorFernandes.png" width="20%"></p>
+<p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/VictorFernandes.png" width="20%"></p>
 <p align="justify">Sou formado como Técnico em Tecnologia da Informação pela Escola Tecnológica de Caçapava (ETEC) e atualmente estou matriculado no 5º semestre do curso tecnólogo em Banco de Dados na Faculdade de Tecnologia de São José dos Campos (FATEC).</p>
 <p align="justify">Em minha trajetória profissional  está presente uma vasta experiência na área de tecnologia e dados, mesmo antes de ingressar na faculdade. Minha primeira oportunidade foi numa rede de supermercados, a Rede Simpatia, onde trabalhei como auxiliar de TI e logo retomei meu contato com a tecnologia e dados.</p>
 <p align="justify">Já na faculdade, tive a oportunidade de participar ativamente de projetos de redução de custos no cluster e da reestruturação de jobs no nosso Lakehouse, resultando em uma economia significativa de 40% para o cluster, durante o meu período de estágio como como Analista de Dados na EDP Brasil.</p>
@@ -26,6 +26,7 @@ Victor Fernandes dos Santos | Portifólio das APIs
 <p align="justify">Visando concretizar o desejo de, no futuro, fundar minha própria empresa na área de tecnologia, além de obter outras certificações como mestrado e doutorado, tenho como objetivo adquirir mais conhecimento e experiência nas áreas de programação, dados e inteligência artificial, áreas que me fascinam.</p>
 <p align="justify">Minha jornada é forjada com a paixão pela tecnologia, guiada pela inovação e embalada pelo orgulho de trilhar meu próprio caminho, rumo ao horizonte brilhante que construo com minhas próprias mãos.</p>
 
+<p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/Fluffy.png" width="100%"></p>
 <h3>Meu Time</h3>
 <p align="justify">Jamais poderia esquecer do meu time onde sem eles, nada disso nunca teria acontecido.</p>
 <p align="justify">Tudo deu inicio no primeiro semestre (remoto), onde muito antes de formar os grupos o Luiz me chamou e me propos escolher a dedo as pessoas com base no pouco que tinhamos ja que as aulas estavam em seu ambiente remoto por conta da pandemia.</p>
@@ -108,6 +109,7 @@ Além de ter explorado a linguagem de programação Python, uma ferramenta vers�
 <h5>Comunicação:</h5>
 <p align="justify">A comunicação foi fundamental para o desenvolvimento do projeto. No início, ao formar um grupo novo com pessoas de diversas idades e estilos próprios, saber se comunicar foi a chave para a conclusão bem-sucedida do projeto.</p>
 
+<p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/DomRock.png" width="100%"></p>
 <h3>Sistema de Gerenciamento de Clientes</h3>
 <h4>2º Semestre • 1/2021 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Dom Rock</a></p>
@@ -199,6 +201,7 @@ Aprendi a lidar com uma variedade de personalidades e características individua
 <h5>Capacidade de Tomada de Decisão:</h5>
 <p align="justify">Tomar decisões rápidas e assertivas, muitas vezes em ambientes de incerteza, é uma habilidade crucial para manter o progresso do projeto.</p>
 
+<p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/Iacit.png" width="100%"></p>
 <h3>Automatização e Visualização dos Dados</h3>
 <h4>3º Semestre • 7/2021 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">IACIT</a></p>
@@ -293,6 +296,7 @@ Além disso, tive meu primeiro contato com triggers e procedures, criando um Log
 <h5>Atenção aos Detalhes:</h5>
 <p align="justify">Como DBA, a precisão é fundamental. Você demonstrou uma forte atenção aos detalhes ao desenvolver e manter o banco de dados, garantindo sua consistência e integridade.</p>
 
+<p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/Embraer.png" width="100%"></p>
 <h3>Controle de Configurações de Aeronaves</h3>
 <h4>4º Semestre • 1/2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">EMBRAER</a></p>
