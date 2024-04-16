@@ -374,45 +374,48 @@ Foi fantástico perceber que consegui avançar no desenvolvimento backend! Sempr
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/Oracle.png" width="100%"></p>
 <h3>Análise e Gerenciamento de Restaurantes</h3>
 <h4>5º Semestre • 07/2023 - 12/2023 </h4>
-<p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">EMBRAER</a></p>
-<p align="justify">O objetivo do nosso projeto é desenvolver um sistema de Controle de Configuração de Aeronaves (ACC) para a Embraer, Empresa Brasileira de Aeronáutica. A Embraer é responsável pela fabricação de aeronaves militares, comerciais, executivas e agrícolas. Sendo a terceira maior empresa do mundo na aviação executiva, a Embraer está gradualmente a reduzir o domínio das empresas europeias e americanas no sector.
+<p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">ORACLE</a></p>
+<p align="justify">Neste desafio, tivemos a oportunidade de criar uma plataforma online que permite aos proprietários de restaurantes gerir as suas operações de forma eficiente e intuitiva. O objetivo é criar um sistema abrangente que ofereça recursos como painéis de controle, gráficos, relatórios e funcionalidades para gestão de pessoal, fornecedores e insumos.
 </p>
-<p align="justify">Com o ACC, a Embraer poderá gerenciar e controlar a configuração de suas aeronaves, proporcionando uma solução eficiente e eficaz para otimizar seu processo produtivo. O sistema permitirá que os pilotos verifiquem a configuração da aeronave que estão voando, comparem os itens presentes e saibam se existem Follow-on-Limitations (FOLs) para elas, garantindo assim a qualidade do despacho.</p>
 
 <h4>Prévia da Solução</h4>
 <p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo banco de dados, outra pelo backend e a ultima pelo frontend.</p>
-<h5>Injestão de CSV:</h5>
-<p align="justify">A ingestão de CSV é importante porque facilita a atualização e a inserção de informações no sistema de forma rápida e eficiente. Como a Embraer lida com uma grande variedade de aeronaves e configurações, é fundamental ter uma maneira eficaz de incorporar novos dados de configuração ou fazer alterações nos existentes.</p>
-<h5>Visualizar Itens:</h5>
-<p align="justify">O cliente deseja ter a capacidade de visualizar os itens relacionados àquele Chassis, incluindo os já instalados, os que poderiam ser instalados e aqueles que não são aplicáveis. Essa funcionalidade proporcionará uma visão abrangente da configuração atual e das possíveis modificações para o Chassis em questão</p>
-<h5>Visualizar Chassis:</h5>
-<p align="justify">O cliente deseja ter a capacidade de visualizar todos os chassis associados à sua conta, enquanto os pilotos devem ser capazes de acessar os chassis que estão designados para pilotar. Por sua vez, os administradores terão permissão para visualizar todos os chassis cadastrados no sistema.</p>
-<h5>Exportações do Manual:</h5>
-<p align="justify">O piloto teria a capacidade de acessar o manual específico do chassi associado à aeronave que está pilotando. Este manual conteria detalhes sobre os itens específicos contidos naquele chassi, incluindo componentes instalados, itens disponíveis para instalação e quaisquer restrições ou limitações relevantes.</p>
-<h5>Lógica de Ordem de Serviço:</h5>
-<p align="justify">Através da lógica de ordem de serviço, um item seria automaticamente disponibilizado se atendesse aos requisitos dos serviços já aplicados no chassi. Isso significa que, após a conclusão dos serviços necessários ou upgrades em um chassi específico, os itens correspondentes seriam automaticamente marcados como disponíveis para instalação.</p>
+<h5>Painéis e Dashboards:</h5>
+<p align="justify">Os painéis e dashboards fornecerão aos proprietários de restaurantes uma visão consolidada e visualmente atraente das principais métricas e indicadores relacionados às operações do restaurante. Isso incluirá dados sobre vendas, desempenho de produtos, análise de clientes, gestão de estoque, despesas e muito mais.</p>
+<h5>Gestão de Insumos:</h5>
+<p align="justify">a solução busca oferecer ferramentas eficazes para os proprietários de restaurantes gerenciarem o abastecimento e utilização de ingredientes, produtos e materiais necessários para suas operações. </p>
+<h5>Controle de Estoque:</h5>
+<p align="justify">Implementar um sistema para monitorar o nível de estoque de cada insumo, permitindo que os proprietários saibam exatamente o que está disponível em seus armazéns.</p>
+<h5>Gestão de Fornecedores :</h5>
+<p align="justify">Manter um registro detalhado dos fornecedores de cada insumo, incluindo informações de contato, histórico de pedidos e contratos, para facilitar a comunicação e negociação.</p>
+<h5>Análise de Custos:</h5>
+<p align="justify">Fornecer relatórios e análises detalhados sobre os custos associados aos insumos, permitindo que os proprietários identifiquem oportunidades de economia e otimização de recursos.</p>
 
 <h4>Tecnologias Utilizadas</h4>
 <p align="justify"><a href="https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html">Java 14</a>: Linguagem utilizada para desenvolvimento da aplicação back-end.</p>
 <p align="justify"><a href="https://spring.io/projects/spring-boot">Spring Boot</a>: Para criação das API's REST do backend e sistema de acessos.</p>
 <p align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: Para consumir as API's e trazer para a interface.</p>
 <p align="justify"><a href="https://vuejs.org/">VUE.js</a>: Framework para auxiliar na componentização da aplicação.</p>
-<p align="justify"><a href="https://www.oracle.com/br/database//">Oracle Cloud</a>: Sistema de Gerenciamento de Banco de Dados em cloud.</p>
+<p align="justify"><a href="https://www.oracle.com/br/database/">Oracle Cloud</a>: Sistema de Gerenciamento de Banco de Dados em cloud.</p>
+<p align="justify"><a href="https://www.oracle.com/br/business-analytics/">Oracle Analytics</a>: Sistema de BI para criação de dashboards.</p>
 
 <h4>Contribuições Pessoais</h4>
 <p align="justify">
-Minha contribuição pessoal foi desempenhar a função de desenvolvedor backend utilizando o framework Spring Boot. Durante esse processo, fui responsável por criar endpoints que desempenharam um papel crucial em auxiliar meus colegas no avanço do projeto. Ao desenvolver esses endpoints, meu objetivo era fornecer soluções eficientes e robustas que facilitassem a integração de diferentes componentes do sistema. </p>
+Minha contribuição pessoal foi bastante diversificada e impactante para o projeto. Comecei desenvolvendo os dashboards no Oracle Analytics, garantindo que os proprietários de restaurantes tivessem acesso a insights valiosos sobre suas operações de forma visual e intuitiva. Em seguida, assumi a responsabilidade de desenvolver a interface do usuário (UI) com JavaScript e Vue.js, criando uma experiência de usuário moderna e atraente para a plataforma online. </p>
+
+<p align="justify">
+No final, assumi um papel semelhante ao de um Administrador de Banco de Dados (DBA), garantindo a integridade, segurança e desempenho do banco de dados subjacente.</p>
 
 <ul>
-  <li>Desenvolvimento de endpoints da API.</li>
-  <li>Implementação da lógica de negócios.</li>
-  <li>Integração com o banco de dados.</li>
-  <li>Implementação de segurança.</li>
+  <li>Desenvolvimento da tela da aplicação.</li>
+  <li>Desenvolvimento dos dashboards em BI.</li>
+  <li>Desenvovlimento da Trigger de notificação no banco de dados.</li>
+  <li>Desenvolvimento da Trigger de estoque.</li>
 </ul>
 
 <h4>Lições Aprendidas</h4>
 <p align="justify">
-Foi fantástico perceber que consegui avançar no desenvolvimento backend! Sempre achei que teria dificuldade com Java, mas ao longo do processo, comecei a gostar da linguagem e a encontrar uma certa facilidade em entender os processos e padrões, como Repository, Controller e Service. Foi uma jornada de aprendizado incrível e estou animado para continuar a me aprimorar nessa área.
+Adquiri valiosas lições ao me envolver com o mundo do JavaScript. Anteriormente, enfrentava dificuldades para compreender uma linguagem não tipada, mas essa experiência me proporcionou uma melhor compreensão de seu funcionamento. Além disso, tive uma experiência positiva com o ambiente em nuvem da Oracle, onde trabalhei com o Oracle Analytics para criar dashboards e com o banco de dados. Essas experiências ampliaram meu conjunto de habilidades e me proporcionaram confiança para enfrentar novos desafios.
 
 <h4>Hard Skills</h4>
 <table>
@@ -421,27 +424,39 @@ Foi fantástico perceber que consegui avançar no desenvolvimento backend! Sempr
     <th width="300px">Classificação</th>
   </tr>
   <tr>
-    <td>Spring Boot</td>
+    <td>Java Script</td>
     <td>★★★★★☆☆☆☆☆</td>
+  </tr>
+    <tr>
+    <td>Vue.js</td>
+    <td>★★★★☆☆☆☆☆☆</td>
+  </tr>
+    <tr>
+    <td>Figma</td>
+    <td>★★★★★★★★☆☆</td>
   </tr>
   <tr>
     <td>Banco de Dados</td>
-    <td>★★★★★★★☆☆☆</td>
+    <td>★★★★★★★★☆☆</td>
+  </tr>
+    <tr>
+    <td>Oracle Analytics</td>
+    <td>★★★★★☆☆☆☆☆</td>
   </tr>
   <tr>
     <td>SQL</td>
-    <td>★★★★★★★☆☆☆</td>
+    <td>★★★★★★★★★☆</td>
   </tr>
     <tr>
     <td>Git</td>
-    <td>★★★★★★☆☆☆☆</td>
+    <td>★★★★★★★☆☆☆</td>
   </tr>
 </table>
 
 <h4>Soft Skills</h4>
-<h5>Resiliência:</h5>
-<p align="justify">A resiliência foi uma habilidade essencial que desenvolvi ao trabalhar com Java. Enquanto eu me deparava com desafios e complexidades na linguagem, aprendi a persistir e a encontrar maneiras de superar as dificuldades. </p>
+<h5>Confiança:</h5>
+<p align="justify">A experiência positiva com o ambiente em nuvem da Oracle e a criação de dashboards e bancos de dados demonstram uma crescente confiança em lidar com tecnologias e ambientes complexos. </p>
 <h5>Adaptabilidade:</h5>
-<p align="justify">Como em outros projetos tive pouco contato com backend Java, assumir a responsabilidade de ser backend e entregar tudo que foi proposto foi um grande desafio.</p>
-<h5>Pensamento analítico:</h5>
-<p align="justify">A complexidade envolvida no desenvolvimento de software nessa linguagem me incentivou a analisar problemas de forma mais crítica e a buscar soluções bem fundamentadas.</p>
+<p align="justify">Novamente mergulhar em uma nova linguagem como JavaScript mostrou o quanto sou flexivel e tenho uma boa adaptabilidade.</p>
+<h5>Resolução de Conflitos:</h5>
+<p align="justify">Ao me deparar com situações adversas durante o projeto em equipe, souber manter a calma e proporcionar a oportunidade para que todos expressem suas preocupações foi algo importante para o sucesso do projeto.</p>
