@@ -48,9 +48,9 @@ Victor Fernandes dos Santos | Portifólio das APIs
 <h5>Indicadores:</h5>
 <p align="justify">Elaboramos indicadores diversificados, apresentando os dados brutos de cada indicador em cartões, acompanhados por gráficos gerados a partir das informações disponíveis e filtros personalizados por cidade e range de data.</p>
 <h5>Dicas, Sobre e Informações Adicionais:</h5>
-<p align="justify">Elaboramos um sistema interessante de informações onde possuia dicas para prevenção a COVID-19, um sobre explicando cada indicadore e suas formulas de calculos, além das informações adicionais que ficavam dentro dos cards para falar sobre os indicadores especificos.</p>
+<p align="justify">Elaboramos um sistema interessante de informações que possuía dicas para prevenção da COVID-19, um sobre explicando cada indicador e suas fórmulas de cálculo, além das informações adicionais que ficavam dentro dos cards para falar sobre os indicadores específicos.</p>
 <h5>Automatização:</h5>
-<p align="justify">Criamos uma automatização que rodava localmente todos os dias em um horario definido baixava os dados e ja aplicava os tratamentos necessarios, deixando pronto para consumo.</p>
+<p align="justify">Criamos uma automatização que rodava localmente todos os dias em um horário definido, baixava os dados e já aplicava os tratamentos necessários, deixando pronto para consumo.</p>
 <h5>API do Telegram:</h5>
 <p align="justify">Desenvolvemos uma integração para vincular os dados que possuíamos a um bot do Telegram, carinhosamente chamado de "Vacininha". Isso permitiu que os usuários recebessem, de forma automática diária ou manual, as informações atualizadas sobre a COVID-19 por meio do bot.</p>
 
@@ -63,9 +63,10 @@ Victor Fernandes dos Santos | Portifólio das APIs
 <p align="justify">
 Como desenvolvedor full-stack, assumi a responsabilidade integral na criação da interface do dashboard e na integração para consumir dados diretamente do arquivo CSV. Em momentos pontuais, auxiliei no tratamento dos dados quando o time encontrava-se em impasse. Ao término do projeto, desempenhei as funções de Scrum Master/PO, desempenhando um papel crucial na distribuição eficiente de tarefas e no acompanhamento contínuo da equipe durante a execução das atividades. Essa abordagem multifuncional possibilitou uma colaboração fluida e eficaz, contribuindo significativamente para o sucesso do projeto como um todo.
 </p>
+<p>Abaixo os principais pontos do meu desenvolvimento:</p>
 <ul>
   <li>Desenvolvimento da interface.</li>
-  <li>Plotagem dos graficos.</li>
+  <li>Plotagem dos gráficos.</li>
   <li>Tratamento de dados com pandas.</li>
   <li>Criação dos wireframes.</li>
   <li>UX/UI design.</li>
@@ -83,7 +84,7 @@ Além de ter explorado a linguagem de programação Python, uma ferramenta vers�
 <table>
   <tr>
     <th width="300px">Tecnologia/Metodologia</th>
-    <th width="300px">Classificação</th>
+    <th width="300px">Proficiencia</th>
   </tr>
   <tr>
     <td>Python</td>
