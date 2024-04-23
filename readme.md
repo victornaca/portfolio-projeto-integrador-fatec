@@ -19,10 +19,10 @@ Victor Fernandes dos Santos | Portifólio das APIs
 
 <h3>Sobre mim</h3>
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/VictorFernandes.png" width="20%"></p>
-<p align="justify">Sou formado como Técnico em Tecnologia da Informação pela Escola Tecnológica de Caçapava (ETEC) e atualmente estou matriculado no 5º semestre do curso tecnólogo em Banco de Dados na Faculdade de Tecnologia de São José dos Campos (FATEC).</p>
-<p align="justify">Em minha trajetória profissional  está presente uma vasta experiência na área de tecnologia e dados, mesmo antes de ingressar na faculdade. Minha primeira oportunidade foi numa rede de supermercados, a Rede Simpatia, onde trabalhei como auxiliar de TI e logo retomei meu contato com a tecnologia e dados.</p>
-<p align="justify">Já na faculdade, tive a oportunidade de participar ativamente de projetos de redução de custos no cluster e da reestruturação de jobs no nosso Lakehouse, resultando em uma economia significativa de 40% para o cluster, durante o meu período de estágio como como Analista de Dados na EDP Brasil.</p>
-<p align="justify">Atualmente estou enfrentando o desafio de estabelecer uma equipe de dados que atende não apenas o Brasil, mas também países da América, incluindo México e EUA como como Analista de Dados na Safran.</p>
+<p align="justify">Sou formado como Técnico em Tecnologia da Informação pela Escola Tecnológica de Caçapava (ETEC) e atualmente estou cursando tecnólogo em Banco de Dados na Faculdade de Tecnologia de São José dos Campos (FATEC).</p>
+<p align="justify">Minha jornada profissional começou em 2018 como auxiliar de TI na Rede Simpatia, uma rede de supermercados, antes mesmo de ingressar na Faculdade, onde retomei meu contato com a área de tecnologia após minha formação como Técnico de TI em 2014.</p>
+<p align="justify">Durante meu estágio como Analista de Dados na EDP Brasil, participei ativamente de projetos de redução de custos no cluster e da reestruturação de jobs no nosso Lakehouse, resultando em uma economia significativa de 40% para o cluster.</p>
+<p align="justify">Atualmente, como Analista de Dados na Safran, enfrento o desafio de estabelecer uma equipe de dados que atende não apenas o Brasil, mas também países da América, incluindo México e EUA, iniciando projetos de um ambiente centralizador de dados e projetos de Inteligência Artificial.</p>
 <p align="justify">Visando concretizar o desejo de, no futuro, fundar minha própria empresa na área de tecnologia, além de obter outras certificações como mestrado e doutorado, tenho como objetivo adquirir mais conhecimento e experiência nas áreas de programação, dados e inteligência artificial, áreas que me fascinam.</p>
 <p align="justify">Minha jornada é forjada com a paixão pela tecnologia, guiada pela inovação e embalada pelo orgulho de trilhar meu próprio caminho, rumo ao horizonte brilhante que construo com minhas próprias mãos.</p>
 
