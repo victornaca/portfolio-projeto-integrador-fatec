@@ -19,12 +19,13 @@ Victor Fernandes dos Santos | Portifólio das APIs
 
 <h3>Sobre mim</h3>
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/VictorFernandes.png" width="20%"></p>
-<p align="justify">Sou formado como Técnico em Tecnologia da Informação pela Escola Tecnológica de Caçapava (ETEC) e atualmente estou matriculado no 5º semestre do curso tecnólogo em Banco de Dados na Faculdade de Tecnologia de São José dos Campos (FATEC).</p>
-<p align="justify">Em minha trajetória profissional  está presente uma vasta experiência na área de tecnologia e dados, mesmo antes de ingressar na faculdade. Minha primeira oportunidade foi numa rede de supermercados, a Rede Simpatia, onde trabalhei como auxiliar de TI e logo retomei meu contato com a tecnologia e dados.</p>
-<p align="justify">Já na faculdade, tive a oportunidade de participar ativamente de projetos de redução de custos no cluster e da reestruturação de jobs no nosso Lakehouse, resultando em uma economia significativa de 40% para o cluster, durante o meu período de estágio como como Analista de Dados na EDP Brasil.</p>
-<p align="justify">Atualmente estou enfrentando o desafio de estabelecer uma equipe de dados que atende não apenas o Brasil, mas também países da América, incluindo México e EUA como como Analista de Dados na Safran.</p>
-<p align="justify">Visando concretizar o desejo de, no futuro, fundar minha própria empresa na área de tecnologia, além de obter outras certificações como mestrado e doutorado, tenho como objetivo adquirir mais conhecimento e experiência nas áreas de programação, dados e inteligência artificial, áreas que me fascinam.</p>
-<p align="justify">Minha jornada é forjada com a paixão pela tecnologia, guiada pela inovação e embalada pelo orgulho de trilhar meu próprio caminho, rumo ao horizonte brilhante que construo com minhas próprias mãos.</p>
+<p align="justify">Sou formado como Técnico em Tecnologia da Informação pela Escola Tecnológica de Caçapava (ETEC) e atualmente estou cursando como tecnólogo em Banco de Dados na Faculdade de Tecnologia de São José dos Campos (FATEC).</p>
+<p align="justify">Ao longo da minha trajetória profissional, acumulei vasta experiência na área de tecnologia e dados, mesmo antes de ingressar na faculdade. Minha primeira oportunidade foi como auxiliar de TI na Rede Simpatia, onde pude retomar meu contato com a tecnologia e dados.</p>
+<p align="justify">Na EDP Brasil, como estagiário de Analista de Dados, participei ativamente de projetos de redução de custos no cluster e da reestruturação de jobs no nosso Lakehouse. Isso resultou em uma economia significativa de 40% para o cluster.</p>
+<p align="justify">Como Analista de Dados na Safran, enfrentei o desafio de desenvolver um time de dados no Brasil. Junto com mais três analistas, desenvolvemos uma metodologia para os projetos, montamos uma arquitetura de datalake, identificamos possíveis projetos para IA Generativa e Aprendizado de Maquina, organizamos os KPIs da empresa e desenvolvemos BI's robustos e temáticos para surportar os times de projeto e diretoria.</p>
+<p align="justify">Atualmente, como Engenheiro de Dados na Shopper, tenho o desafio de estruturar um datalake robusto para substituir algumas pipelines construídas sob demanda.</p>
+<p align="justify">Visando concretizar meu desejo de, no futuro, fundar minha própria empresa na área de tecnologia, além de obter outras certificações, como mestrado e doutorado, tenho como objetivo adquirir mais conhecimento e experiência nas áreas de programação, dados e inteligência artificial, áreas que me fascinam.</p>
+<p align="justify">Minha jornada é guiada pela paixão pela tecnologia, inovação e o orgulho de trilhar meu próprio caminho, rumo ao horizonte brilhante que construo com minhas próprias mãos.</p>
 
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/Fluffy.png" width="100%"></p>
 <h3>Meu Time</h3>
@@ -39,47 +40,54 @@ Victor Fernandes dos Santos | Portifólio das APIs
 <h3>SPanel - Dashboard COVID-19</h3>
 <h4>1º Semestre • 07/2021 - 12/2021 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a></p>
-<p align="justify">O SPanel é um painel web construído em Python com Bootstrap, desenvolvido com o propósito de, no auge da pandemia, carregar os dados em arquivos CSV disponibilizados pelo Governo Brasileiro e transformá-los em uma visualização simples e fácil para que qualquer usuário pudesse acompanhar os principais indicadores, como imunizados, óbitos, casos, letalidade, entre outros.</p>
+<p align="justify">O SPanel é um painel web desenvolvido em Python com Bootstrap, criado com o objetivo de facilitar o acompanhamento dos principais indicadores da pandemia de COVID-19 no Brasil. Durante o auge da pandemia, o SPanel foi projetado para carregar dados em arquivos CSV disponibilizados pelo Governo Brasileiro e transformá-los em visualizações simples e intuitivas.</p>
+
+<p align="justify">O SPanel permite que qualquer usuário acompanhe facilmente indicadores cruciais como número de imunizados, óbitos, casos confirmados, letalidade, entre outros. Com uma interface amigável e acessível, o SPanel desempenhou um papel importante na disseminação de informações vitais durante um período crítico, proporcionando uma ferramenta eficaz para a análise e compreensão dos dados relativos à pandemia.</p>
 
 <h4>Prévia da Solução</h4>
 <p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo tratamento dos dados e a outra pela visualização desses dados.</p>
 <h5>Tratamento dos dados:</h5>
 <p align="justify">Dada a liberdade à equipe para escolher as melhores fontes de dados, realizamos a extração, transformação e junção dos dados em uma única fonte consolidada. Coletamos informações sobre indicadores da COVID-19 e dados relacionados à imunização.</p>
 <h5>Indicadores:</h5>
-<p align="justify">Elaboramos indicadores diversificados, apresentando os dados brutos de cada indicador em cartões, acompanhados por gráficos gerados a partir das informações disponíveis e filtros personalizados por cidade e range de data.</p>
+<p align="justify">Elaboramos indicadores diversificados, apresentando os dados brutos de cada indicador em cartões, acompanhados por gráficos gerados a partir das informações disponíveis e filtros personalizados por cidade e intervalo de data.</p>
 <h5>Dicas, Sobre e Informações Adicionais:</h5>
-<p align="justify">Elaboramos um sistema interessante de informações onde possuia dicas para prevenção a COVID-19, um sobre explicando cada indicadore e suas formulas de calculos, além das informações adicionais que ficavam dentro dos cards para falar sobre os indicadores especificos.</p>
+<p align="justify">Elaboramos um sistema de informações que incluía dicas para prevenção da COVID-19, uma seção "Sobre" explicando cada indicador e suas fórmulas de cálculo, além de informações adicionais dentro dos cartões para detalhar os indicadores específicos.</p>
 <h5>Automatização:</h5>
-<p align="justify">Criamos uma automatização que rodava localmente todos os dias em um horario definido baixava os dados e ja aplicava os tratamentos necessarios, deixando pronto para consumo.</p>
+<p align="justify">Criamos uma automatização que rodava localmente todos os dias em um horário definido, baixando os dados e aplicando os tratamentos necessários, deixando-os prontos para consumo.</p>
 <h5>API do Telegram:</h5>
-<p align="justify">Desenvolvemos uma integração para vincular os dados que possuíamos a um bot do Telegram, carinhosamente chamado de "Vacininha". Isso permitiu que os usuários recebessem, de forma automática diária ou manual, as informações atualizadas sobre a COVID-19 por meio do bot.</p>
+<p align="justify">Desenvolvemos uma integração para vincular os dados a um bot do Telegram, carinhosamente chamado de "Vacininha". Isso permitiu que os usuários recebessem, de forma automática diária ou manual, as informações atualizadas sobre a COVID-19 por meio do bot.</p>
 
 <h4>Tecnologias Utilizadas</h4>
-<p align="justify"><a href="https://www.python.org/">Python</a>: Para tratamentos dos dados, Automação e integração com o bootstrap.</p>
-<p align="justify"><a href="https://dash-bootstrap-components.opensource.faculty.ai/">Bootstrap Plotly</a>: Para criação da interface, requisição dos dados no CSV e criação dos gráficos.</p>
-<p align="justify"><a href="https://adobexdplatform.com/">Adobe XD</a>: Desenvolvimento do wireframe do produto.</p>
+<p align="justify"><a href="https://www.python.org/">Python</a>: Utilizado para tratamento de dados, automação de processos e integração com Bootstrap.</p>
+<p align="justify"><a href="https://dash-bootstrap-components.opensource.faculty.ai/">Bootstrap Plotly</a>: Empregado para criação da interface web, requisição de dados CSV e geração de gráficos interativos.
+</p>
+<p align="justify"><a href="https://adobexdplatform.com/">Adobe XD</a>: Utilizado para desenvolver o wireframe do produto, facilitando o design e a prototipagem da interface.</p>
 
 <h4>Contribuições Pessoais</h4>
 <p align="justify">
-Como desenvolvedor full-stack, assumi a responsabilidade integral na criação da interface do dashboard e na integração para consumir dados diretamente do arquivo CSV. Em momentos pontuais, auxiliei no tratamento dos dados quando o time encontrava-se em impasse. Ao término do projeto, desempenhei as funções de Scrum Master/PO, desempenhando um papel crucial na distribuição eficiente de tarefas e no acompanhamento contínuo da equipe durante a execução das atividades. Essa abordagem multifuncional possibilitou uma colaboração fluida e eficaz, contribuindo significativamente para o sucesso do projeto como um todo.
+Como desenvolvedor full-stack, assumi a responsabilidade integral pela criação da interface do dashboard e pela integração para consumir dados diretamente dos arquivos CSV. Em momentos críticos, ofereci suporte no tratamento dos dados, auxiliando a equipe a superar impasses. Ao término do projeto, atuei como Scrum Master e Product Owner (PO), desempenhando um papel crucial na distribuição eficiente de tarefas e no acompanhamento contínuo da equipe durante a execução das atividades. Essa abordagem multifuncional possibilitou uma colaboração fluida e eficaz, contribuindo significativamente para o sucesso do projeto.
 </p>
+<h5>Principais Contribuições:</h5>
 <ul>
-  <li>Desenvolvimento da interface.</li>
-  <li>Plotagem dos graficos.</li>
-  <li>Tratamento de dados com pandas.</li>
-  <li>Criação dos wireframes.</li>
-  <li>UX/UI design.</li>
+  <li>Desenvolvimento da Interface: Criação de uma interface intuitiva e funcional para o dashboard.</li>
+  <li>Plotagem dos Gráficos: Geração de gráficos interativos e informativos utilizando Bootstrap Plotly.</li>
+  <li>Tratamento de Dados com Pandas: Manipulação e preparação dos dados para análise e visualização.</li>
+  <li>Criação dos Wireframes: Desenvolvimento de wireframes detalhados para o planejamento da interface.</li>
+  <li>UX/UI Design: Aplicação de princípios de UX/UI para melhorar a experiência do usuário e a usabilidade da interface.</li>
 </ul>
 
 <h4>Lições Aprendidas</h4>
 <p align="justify">
-Ter tido o primeiro contato com a metodologia ágil Scrum, compreendendo as funções do Scrum Master e PO, é uma base valiosa para a gestão eficaz de projetos. Além disso, a criação do seu primeiro wireframe, aplicando noções de UX/UI, demonstra um interesse crescente na experiência do usuário e no design de interfaces.
+Ao longo do projeto, pude ter meu primeiro contato com a metodologia ágil Scrum, compreendendo as funções do Scrum Master e do Product Owner (PO). Essa experiência foi fundamental para entender a importância da gestão eficaz de projetos e a colaboração em equipe.
 </p>
 <p align="justify">
-Além de ter explorado a linguagem de programação Python, uma ferramenta versátil, e tenha adquirido habilidades no tratamento de dados com o pandas. Essa combinação de conhecimentos em metodologia ágil, design de interfaces e programação é uma base sólida para o desenvolvimento de projetos futuros. 
+Além disso, desenvolver meu primeiro wireframe, aplicando noções de UX/UI, foi um marco importante. Isso demonstrou meu crescente interesse na experiência do usuário e no design de interfaces, áreas que vejo como cruciais para o sucesso de qualquer projeto de desenvolvimento de software.
+</p>
+<p align="justify">
+Explorar a linguagem de programação Python e adquirir habilidades no tratamento de dados com o pandas também foi uma parte significativa do aprendizado. Python se mostrou uma ferramenta versátil e poderosa, enquanto o pandas me proporcionou as habilidades necessárias para manipular e analisar dados de forma eficaz.
 </p>
 
-<h4>Hard Skills</h4>
+<h4>Competências Técnicas</h4>
 <table>
   <tr>
     <th width="300px">Tecnologia/Metodologia</th>
@@ -87,7 +95,7 @@ Além de ter explorado a linguagem de programação Python, uma ferramenta vers�
   </tr>
   <tr>
     <td>Python</td>
-    <td>★★★★★★★☆☆☆</td>
+    <td>★★★★★☆☆☆☆☆</td>
   </tr>
   <tr>
     <td>Plotly</td>
@@ -103,54 +111,55 @@ Além de ter explorado a linguagem de programação Python, uma ferramenta vers�
   </tr>
 </table>
 
-<h4>Soft Skills</h4>
-<h5>Planejamento:</h5>
-<p align="justify">Durante o projeto, foi necessário desenvolver um planejamento utilizando a metodologia Scrum, o que proporcionou uma nova perspectiva em relação ao desenvolvimento de projetos. Essa habilidade contribuiu para manter um padrão e uma organização, o que foi fundamental para o sucesso do projeto.</p>
-<h5>Comunicação:</h5>
-<p align="justify">A comunicação foi fundamental para o desenvolvimento do projeto. No início, ao formar um grupo novo com pessoas de diversas idades e estilos próprios, saber se comunicar foi a chave para a conclusão bem-sucedida do projeto.</p>
+<h4>Competências Comportamentais:</h4>
+<h5>Resolução de Conflitos:</h5>
+<p align="justify">Durante o projeto, me deparei com um conflito interno no grupo em que uma pessoa não estava contribuindo efetivamente com as atividades atribuídas, apesar das oportunidades oferecidas. Após várias tentativas de resolver a situação, guiei o time para tomar a decisão de remover esse indivíduo do grupo. Essa medida foi necessária para garantir a eficiência e o sucesso do projeto.</p>
+<h5>Gerenciamento de Equipe:</h5>
+<p align="justify">No decorrer da última sprint, nosso Scrum Master saiu e me vi assumindo o papel, mesmo com um conhecimento limitado sobre Scrum. O desafio de gerenciar a equipe e coordenar as atividades foi crucial para garantir a entrega completa do projeto.</p>
 
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/DomRock.png" width="100%"></p>
 <h3>Sistema de Gerenciamento de Clientes</h3>
 <h4>2º Semestre • 01/2022 - 07/2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Dom Rock</a></p>
 <p align="justify">
-O produto para Dom Rock foi desenvolvido em Java para desktop, fazendo uso da tecnologia JavaFX na construção da interface gráfica. Além de realizar o cadastro de clientes e gerenciar suas informações básicas, o sistema de gerenciamento também lida com as informações de escopo e todas as etapas necessárias para uma aplicação mais eficiente dos produtos oferecidos pela Dom Rock.</p>
+O produto desenvolvido para a Dom Rock foi implementado em Java para desktop, utilizando a tecnologia JavaFX para a construção da interface gráfica. Além de efetuar o cadastro de clientes e gerenciar suas informações básicas, o sistema de gerenciamento também abrange as informações de escopo e todas as etapas necessárias para uma aplicação mais eficiente dos produtos oferecidos pela Dom Rock.</p>
 <p align="justify">
-Além disso, o produto também proporciona a funcionalidade de adicionar comentários durante o processo de cadastro de informações nas etapas, e permite a exportação em massa de todos os dados em formato JSON.</p>
+Adicionalmente, o produto oferece a funcionalidade de adicionar comentários durante o processo de cadastro de informações nas etapas e possibilita a exportação em massa de todos os dados em formato JSON, facilitando a integração com outros sistemas.</p>
 
 <h4>Prévia da Solução</h4>
-<p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo backend, frontend e banco de dados.</p>
+<p align="justify">A partir dos objetivos propostos, realizamos uma divisão de equipes, com uma responsável pelo backend, frontend e banco de dados.</p>
 <h5>Criação das Telas:</h5>
-<p align="justify">Elaboramos os wireframes e desenvolvemos as telas para desktop utilizando o JavaFX, tendo em mente boas práticas para uma experiência de uso eficiente pelo cliente.</p>
+<p align="justify">Elaboramos wireframes e desenvolvemos as telas para desktop utilizando o JavaFX, com foco em boas práticas para proporcionar uma experiência de uso eficiente ao cliente.</p>
 <h5>Desenvolvimento das Etapas:</h5>
-<p align="justify">Elaboramos, utilizando o padrão de projeto Java MVC, as etapas solicitadas pelo cliente: escopo, bronze, silver, gold, entre outras. Cada uma delas possui suas particularidades e regras de negócio específicas.</p>
+<p align="justify">Utilizando o padrão de projeto Java MVC, elaboramos as etapas solicitadas pelo cliente, como escopo, bronze, silver, gold, entre outras, cada uma com suas particularidades e regras de negócio específicas.</p>
 <h5>Banco de Dados em Nuvem:</h5>
-<p align="justify">Inovamos nesse semestre e decidimos trazer um banco de dados em nuvem SQLServer que nos deu flexibilidade no desenvolvimento.</p>
+<p align="justify">Inovamos ao trazer um banco de dados em nuvem SQLServer, proporcionando flexibilidade no desenvolvimento e escalabilidade computacional.</p>
 <h5>Comentarios:</h5>
-<p align="justify">Implantamos um sistema de comentarios dentro de cada etapa, onde o cliente pode pontuar coisas especificas que não consta nos campos da aplicação</p>
-<h5>API do Telegram:</h5>
-<p align="justify">Desenvolvemos uma integração para vincular os dados que possuíamos a um bot do Telegram, carinhosamente chamado de "Vacininha". Isso permitiu que os usuários recebessem, de forma automática diária ou manual, as informações atualizadas sobre a COVID-19 por meio do bot.</p>
+<p align="justify">Implantamos um sistema de comentários dentro de cada etapa, permitindo que o cliente faça observações específicas que não constam nos campos da aplicação.</p>
+<h5>Exportação em JSON:</h5>
+<p align="justify">Implementamos a funcionalidade de exportação em massa de todos os dados em formato JSON, oferecendo uma maneira conveniente de acessar e utilizar as informações geradas pela aplicação.</p>
 
 <h4>Tecnologias Utilizadas</h4>
-<p align="justify"><a href="https://www.oracle.com/br/java/technologies/javase/jdk14-archive-downloads.html">Java 14</a>: Linguagem de desenvolvimento back-end.</p>
-<p align="justify"><a href="https://openjfx.io/">Java FX</a>: Plataforma de software utilizado para desenvolver a tela da aplicação desktop</p>
-<p align="justify"><a href="https://azure.microsoft.com/en-us/products/azure-sql/database/?&ef_id=_k_CjwKCAjw_e2wBhAEEiwAyFFFozkHWnFEjzLn4sSbJGBmiMyzxCnM30cR-UUvnj4P-cigaG23149q_BoCPOAQAvD_BwE_k_&OCID=AIDcmmzmnb0182_SEM__k_CjwKCAjw_e2wBhAEEiwAyFFFozkHWnFEjzLn4sSbJGBmiMyzxCnM30cR-UUvnj4P-cigaG23149q_BoCPOAQAvD_BwE_k_&gad_source=1&gclid=CjwKCAjw_e2wBhAEEiwAyFFFozkHWnFEjzLn4sSbJGBmiMyzxCnM30cR-UUvnj4P-cigaG23149q_BoCPOAQAvD_BwE">SQL Server Azure</a>: Banco de dados em cloud utilizado para armazenar as informações da aplicação</p>
+<p align="justify"><a href="https://www.oracle.com/br/java/technologies/javase/jdk14-archive-downloads.html">Java 14</a>: Linguagem de programação back-end, oferecendo uma plataforma robusta para o desenvolvimento do sistema.</p>
+<p align="justify"><a href="https://openjfx.io/">Java FX</a>: Plataforma utilizada para construir a interface gráfica da aplicação desktop, proporcionando uma experiência de usuário interativa.</p>
+<p align="justify"><a href="https://azure.microsoft.com/en-us/products/azure-sql/database/?&ef_id=_k_CjwKCAjw_e2wBhAEEiwAyFFFozkHWnFEjzLn4sSbJGBmiMyzxCnM30cR-UUvnj4P-cigaG23149q_BoCPOAQAvD_BwE_k_&OCID=AIDcmmzmnb0182_SEM__k_CjwKCAjw_e2wBhAEEiwAyFFFozkHWnFEjzLn4sSbJGBmiMyzxCnM30cR-UUvnj4P-cigaG23149q_BoCPOAQAvD_BwE_k_&gad_source=1&gclid=CjwKCAjw_e2wBhAEEiwAyFFFozkHWnFEjzLn4sSbJGBmiMyzxCnM30cR-UUvnj4P-cigaG23149q_BoCPOAQAvD_BwE">SQL Server Azure</a>: Banco de dados em nuvem para armazenar as informações da aplicação, oferecendo escalabilidade e segurança.</p>
 
 <h4>Contribuições Pessoais</h4>
 <p align="justify">
-Como Scrum Master do projeto, assumi a responsabilidade primordial de liderar a equipe em direção aos objetivos traçados. Ao longo do ciclo de desenvolvimento, concentrei meus esforços na remoção de obstáculos, garantindo que o time pudesse operar de forma eficiente e produtiva. Além disso, promovi um ambiente de trabalho colaborativo, onde todos os membros pudessem contribuir com suas habilidades únicas e ideias inovadoras.</p>
+Como Scrum Master do projeto, assumi a responsabilidade de liderar a equipe em direção aos objetivos traçados. Durante o ciclo de desenvolvimento, concentrei meus esforços na remoção de obstáculos, garantindo que o time operasse de forma eficiente e produtiva. Promovi um ambiente colaborativo, onde todos os membros pudessem contribuir com suas habilidades únicas e ideias inovadoras.</p>
 <p align="justify">
-Minha abordagem centrada nas pessoas incentivou a comunicação aberta e a resolução de problemas de forma eficaz. Auxiliei o meu Product Owner a desenvolver os wireframes do projeto. Para finalizar auxiliei como desenvolvedor em dificuldades pontuais como utilizar Singleton para a criação de comentário, levando informações de uma tela para outra tela.
+Minha abordagem centrada nas pessoas incentivou a comunicação aberta e a resolução eficaz de problemas. Além disso, auxiliei o Product Owner no desenvolvimento dos wireframes do projeto e, como desenvolvedor, enfrentei desafios pontuais, como a implementação do padrão Singleton para a criação de comentários e a facilitação da transferência de informações entre telas. Adicionalmente, desenvolvi a funcionalidade de exportação de dados, agregando valor ao projeto.
 </p>
 
+<h5>Principais Contribuições:</h5>
 <ul>
-  <li>Remoção de obstáculos que impediam o progresso da equipe.</li>
-  <li>Colaboração estreita com o Product Owner na definição e priorização do backlog do produto.</li>
-  <li>Promoção de um ambiente de trabalho colaborativo e centrado nas pessoas.</li>
-  <li>Resolução de conflitos e orientação da equipe em momentos de desafio.</li>
-  <li>Incentivo à comunicação aberta e à troca de conhecimento entre os membros da equipe.</li>
-  <li>Auxilio a equipe em desenvolvimento de uma solução complexa.</li>
-  <li>Desenvolvimento dos wireframes.</li>
+  <li>Remoção de Obstáculos: Identifiquei e removi obstáculos que impediam o progresso da equipe, garantindo um fluxo de trabalho contínuo e eficiente.</li>
+  <li>Colaboração com o Product Owner: Trabalhei em estreita colaboração com o Product Owner na definição e priorização do backlog do produto, garantindo que as necessidades do cliente fossem atendidas de forma eficaz.</li>
+  <li>Promoção de Ambiente Colaborativo: Promovi um ambiente de trabalho colaborativo e centrado nas pessoas, incentivando a participação de todos os membros da equipe e garantindo um clima positivo e produtivo.</li>
+  <li>Resolução de Conflitos: Resolvi conflitos e orientei a equipe em momentos de desafio, garantindo que os objetivos do projeto fossem alcançados de maneira eficiente.</li>
+  <li>Incentivo à Comunicação Aberta: Incentivei a comunicação aberta e a troca de conhecimento entre os membros da equipe, promovendo um ambiente de aprendizado contínuo e colaboração.</li>
+  <li>Auxílio à Equipe em Desenvolvimento: Prestei auxílio à equipe no desenvolvimento de uma solução complexa, oferecendo suporte técnico e orientação quando necessário.</li>
+  <li>Desenvolvimento dos Wireframes: Contribuí para o desenvolvimento dos wireframes, auxiliando na visualização e planejamento da interface do projeto.</li>
 </ul>
 
 <h4>Lições Aprendidas</h4>
@@ -158,10 +167,10 @@ Minha abordagem centrada nas pessoas incentivou a comunicação aberta e a resol
 Na minha experiência anterior como Scrum Master, já havia adquirido uma compreensão básica das responsabilidades inerentes a essa função. No entanto, neste projeto, busquei aprofundar meu envolvimento e compromisso com a equipe, auxiliando ativamente nas dificuldades e incentivando a participação de todos, de modo que suas vozes fossem ouvidas e suas contribuições valorizadas.
 </p>
 <p align="justify">
-Aprendi a lidar com uma variedade de personalidades e características individuais, reconhecendo a importância de adaptar minha abordagem de liderança para melhor atender às necessidades de cada membro da equipe. Além de ter tipo meu primeiro contato com a linguagem de programação Java.
+Aprendi a lidar com uma variedade de personalidades e características individuais, reconhecendo a importância de adaptar minha abordagem de liderança para melhor atender às necessidades de cada membro da equipe. Além disso, tive meu primeiro contato com a linguagem de programação Java, ampliando assim meu conjunto de habilidades e conhecimentos técnicos.
 </p>
 
-<h4>Hard Skills</h4>
+<h4>Competências Técnicas</h4>
 <table>
   <tr>
     <th width="300px">Tecnologia/Metodologia</th>
@@ -177,7 +186,7 @@ Aprendi a lidar com uma variedade de personalidades e características individua
   </tr>
   <tr>
     <td>SQL Server</td>
-    <td>★★★☆☆☆☆☆☆☆</td>
+    <td>★★★★☆☆☆☆☆☆</td>
   </tr>
   <tr>
     <td>Figma</td>
@@ -189,39 +198,36 @@ Aprendi a lidar com uma variedade de personalidades e características individua
   </tr>
     <tr>
     <td>Git</td>
-    <td>★★★★★★☆☆☆☆</td>
+    <td>★★★★☆☆☆☆☆☆</td>
   </tr>
 </table>
 
-<h4>Soft Skills</h4>
-<h5>Resolução de Conflitos:</h5>
-<p align="justify">Lidar com conflitos de maneira construtiva e eficaz é crucial para manter um ambiente de trabalho harmonioso e produtivo.</p>
-<h5>Flexibilidade:</h5>
-<p align="justify">Ser capaz de se adaptar a mudanças de planos ou requisitos, e responder de forma ágil a novas situações, é uma habilidade valiosa para lidar com a natureza dinâmica dos projetos ágeis.</p>
-<h5>Capacidade de Tomada de Decisão:</h5>
-<p align="justify">Tomar decisões rápidas e assertivas, muitas vezes em ambientes de incerteza, é uma habilidade crucial para manter o progresso do projeto.</p>
+<h4>Competências Comportamentais</h4>
+<h5>Empatia, Liderança, Comunicação Eficaz:</h5>
+<p align="justify">Lidei com uma situação muito delicada em que um dos meus colegas enfrentou uma crise de depressão intensa, que o levou a ser internado. Auxiliá-lo antes e depois de sua volta para se readaptar, sem comprometer a performance da equipe, foi um grande desafio.</p>
+
 
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/Iacit.png" width="100%"></p>
 <h3>Automatização e Visualização dos Dados</h3>
 <h4>3º Semestre • 07/2022 - 12/2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">IACIT</a></p>
-<p align="justify">A IACIT, uma empresa especializada em consultoria meteorológica, atualmente oferece aos seus clientes relatórios personalizados de dados meteorológicos. No entanto, devido ao processo manual de processamento de muitas informações, a empresa acaba perdendo tempo e desperdiçando recursos.</p>
+<p align="justify">A IACIT, uma empresa especializada em consultoria meteorológica, atualmente fornece aos seus clientes relatórios personalizados de dados meteorológicos. No entanto, devido ao processo manual de processamento de muitas informações, a empresa acaba perdendo tempo e desperdiçando recursos.</p>
 <p align="justify">Diante desse desafio, a Fluffy, em colaboração com a IACIT, propõe o desenvolvimento de um sistema que possibilite a importação eficiente dos dados meteorológicos, além de armazená-los em um banco de dados. Essa solução visa otimizar o processo, permitindo a geração ágil de relatórios sob medida para atender às demandas específicas dos clientes da IACIT.</p>
 
 <h4>Prévia da Solução</h4>
-<p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo tratamento dos dados e banco de dados, outra pelo backend e a ultima pelo frontend.</p>
+<p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo tratamento dos dados e banco de dados, outra pelo backend e a última pelo frontend.</p>
 <h5>Banco de Dados:</h5>
-<p align="justify">Como mencionado pelo cliente, o volume de dados ultrapassavam de 13 milhoes de linhas e precisava de uma estrutura relacional que fosse escalavel e tivesse uma velocidade consideravel para plotagem de graficos e exportação dessas informações.</p>
+<p align="justify">Como mencionado pelo cliente, o volume de dados ultrapassava 13 milhões de linhas e precisava de uma estrutura relacional escalável e com velocidade considerável para plotagem de gráficos e exportação dessas informações.</p>
 <h5>Tratamento dos dados:</h5>
-<p align="justify">O cliente possuía um site onde capturava esses CSVs com dados meteorológicos. O que fizemos foi automatizar a captação diária, transformar utilizando Python (Pandas) e carregar em um banco de dados relacional.</p>
+<p align="justify">O cliente possuía um site onde capturava esses CSVs com dados meteorológicos. Automatizamos a captação diária, transformamos utilizando Python (Pandas) e carregamos em um banco de dados relacional.</p>
 <h5>Indicadores:</h5>
-<p align="justify">Elaboramos indicadores diversificados, apresentando os dados brutos de cada indicador em cartões, acompanhados por gráficos gerados a partir das informações disponíveis e filtros personalizados para cada tipo de conjunto de dados (vento, temperatura e etc).</p>
+<p align="justify">Elaboramos indicadores diversificados, apresentando os dados brutos de cada indicador em cartões, acompanhados por gráficos gerados a partir das informações disponíveis e filtros personalizados para cada tipo de conjunto de dados (vento, temperatura, etc.).</p>
 <h5>Exportações e Relatórios:</h5>
-<p align="justify">Criamos um sistema de relatórios que ele poderia tanto puxar os dados em formato de uma tabela como exportar graficos personalizados.</p>
+<p align="justify">Criamos um sistema de relatórios que permitia tanto puxar os dados em formato de uma tabela como exportar gráficos personalizados.</p>
 <h5>Logs de Auditoria:</h5>
-<p align="justify">Através de triggers do banco de dados criamos um sistema de logs de auditorias mapeando as principais funções que o usuario realizava.</p>
+<p align="justify">Através de triggers do banco de dados, criamos um sistema de logs de auditorias mapeando as principais funções que o usuário realizava.</p>
 <h5>Criações de Estados e Estações:</h5>
-<p align="justify">Em vez de se criar um CRUD para a inserção dessas informações utilizamos o proprio CSV como base para cadastrar automaticamente essas informações caso novas estações fossem criadas.</p>
+<p align="justify">Em vez de criar um CRUD para a inserção dessas informações, utilizamos o próprio CSV como base para cadastrar automaticamente essas informações caso novas estações fossem criadas.</p>
 
 <h4>Tecnologias Utilizadas</h4>
 <p align="justify"><a href="https://www.python.org/">Python</a>: Linguagem utilizada para tratamento dos dados, automação e upload no banco de dados.</p>
@@ -235,10 +241,11 @@ Aprendi a lidar com uma variedade de personalidades e características individua
 
 <h4>Contribuições Pessoais</h4>
 <p align="justify">
-Além de desempenhar integralmente a função de DBA no banco de dados, realizando todo o processo de levantamento da infraestrutura do banco com foco no escalonamento dos dados, que ultrapassaram 13 milhões de linhas.</p>
+Como responsável pelo banco de dados no projeto, assumi integralmente a função de DBA, conduzindo todo o processo de levantamento da infraestrutura do banco com foco no escalonamento dos dados, que ultrapassaram 13 milhões de linhas.</p>
 <p align="justify">
-Ainda na posição de DBA, executei a criação e validação do DER (Diagrama Entidade Relacionamento), Diagrama Lógico, Biblioteca de Dados e a criação do banco e tabelas. Um dos meus principais desafios no projeto foi a implementação do log de auditoria por meio de Trigger.
+Minhas responsabilidades incluíram a criação e validação do Diagrama Entidade Relacionamento, Diagrama Lógico e Biblioteca de Dados, além da implementação do banco e tabelas. Enfrentei o desafio de desenvolver o log de auditoria utilizando Triggers, uma tarefa que exigiu habilidades técnicas avançadas.
 </p>
+<h5>Principais Contribuições:</h5>
 <ul>
   <li>Desenvolvimento do Diagrama Entidade Relacionamento.</li>
   <li>Desenvolvimento do Diagrama Lógico.</li>
@@ -250,13 +257,13 @@ Ainda na posição de DBA, executei a criação e validação do DER (Diagrama E
 
 <h4>Lições Aprendidas</h4>
 <p align="justify">
-Aprendi a função de DBA, mesmo em seu nível mais básico, onde desenvolvi toda a concepção e diagramas, considerando as regras de negócios e funcionalidades discutidas com o cliente
+Durante este projeto, adquiri uma compreensão fundamental da função de DBA, desde a concepção inicial até a implementação prática. Desenvolver os diagramas do banco de dados, levando em consideração as regras de negócios e as funcionalidades discutidas com o cliente, foi uma experiência enriquecedora que ampliou meu conhecimento nesta área.
 </p>
 <p align="justify">
-Além disso, tive meu primeiro contato com triggers e procedures, criando um Log de Auditoria altamente funcional, que se destacou como diferencial no projeto.
+Além disso, meu primeiro contato com triggers e procedures foi uma oportunidade de aprendizado valiosa. Ao criar um Log de Auditoria eficiente, pude explorar e compreender melhor os recursos avançados do banco de dados, destacando-se como um diferencial significativo no projeto.
 </p>
 
-<h4>Hard Skills</h4>
+<h4>Competências Técnicas</h4>
 <table>
   <tr>
     <th width="300px">Tecnologia/Metodologia</th>
@@ -280,7 +287,7 @@ Além disso, tive meu primeiro contato com triggers e procedures, criando um Log
   </tr>
   <tr>
     <td>SQL</td>
-    <td>★★★★★★★☆☆☆</td>
+    <td>★★★★★★☆☆☆☆</td>
   </tr>
     <tr>
     <td>Git</td>
@@ -288,13 +295,9 @@ Além disso, tive meu primeiro contato com triggers e procedures, criando um Log
   </tr>
 </table>
 
-<h4>Soft Skills</h4>
-<h5>Colaboração e Comunicação</h5>
-<p align="justify">Trabalhar como DBA muitas vezes requer colaboração estreita com outros membros da equipe, como desenvolvedores e administradores de sistemas. Sua capacidade de comunicar efetivamente e colaborar com outros departamentos foi crucial para o sucesso do projeto.</p>
-<h5>Gerenciamento de Projetos:</h5>
-<p align="justify">Liderei a implantação da infraestrutura do banco de dados, demonstrando habilidades de gerenciamento de projetos para garantir que as necessidades de escalonamento dos dados fossem atendidas de forma eficaz.</p>
-<h5>Atenção aos Detalhes:</h5>
-<p align="justify">Como DBA, a precisão é fundamental. Você demonstrou uma forte atenção aos detalhes ao desenvolver e manter o banco de dados, garantindo sua consistência e integridade.</p>
+<h4>Competências Comportamentais</h4>
+<h5>Comunicação Eficaz, Compreensão do cliente, Negociação</h5>
+<p align="justify">Desempenhar o papel de DBA e desenvolver uma solução escalável demandou habilidades de comunicação eficazes entre o cliente e o Product Owner. Essa capacidade de compreender as necessidades do cliente e traduzi-las em requisitos técnicos foi fundamental para o sucesso do projeto.</p>
 
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/Embraer.png" width="100%"></p>
 <h3>Controle de Configurações de Aeronaves</h3>
@@ -339,7 +342,7 @@ Minha contribuição pessoal foi desempenhar a função de desenvolvedor backend
 <p align="justify">
 Foi fantástico perceber que consegui avançar no desenvolvimento backend! Sempre achei que teria dificuldade com Java, mas ao longo do processo, comecei a gostar da linguagem e a encontrar uma certa facilidade em entender os processos e padrões, como Repository, Controller e Service. Foi uma jornada de aprendizado incrível e estou animado para continuar a me aprimorar nessa área.
 
-<h4>Hard Skills</h4>
+<h4>Competências Técnicas</h4>
 <table>
   <tr>
     <th width="300px">Tecnologia/Metodologia</th>
@@ -363,7 +366,7 @@ Foi fantástico perceber que consegui avançar no desenvolvimento backend! Sempr
   </tr>
 </table>
 
-<h4>Soft Skills</h4>
+<h4>Competências Comportamentais</h4>
 <h5>Resiliência:</h5>
 <p align="justify">A resiliência foi uma habilidade essencial que desenvolvi ao trabalhar com Java. Enquanto eu me deparava com desafios e complexidades na linguagem, aprendi a persistir e a encontrar maneiras de superar as dificuldades. </p>
 <h5>Adaptabilidade:</h5>
@@ -417,7 +420,7 @@ No final, assumi um papel semelhante ao de um Administrador de Banco de Dados (D
 <p align="justify">
 Adquiri valiosas lições ao me envolver com o mundo do JavaScript. Anteriormente, enfrentava dificuldades para compreender uma linguagem não tipada, mas essa experiência me proporcionou uma melhor compreensão de seu funcionamento. Além disso, tive uma experiência positiva com o ambiente em nuvem da Oracle, onde trabalhei com o Oracle Analytics para criar dashboards e com o banco de dados. Essas experiências ampliaram meu conjunto de habilidades e me proporcionaram confiança para enfrentar novos desafios.
 
-<h4>Hard Skills</h4>
+<h4>Competências Técnicas</h4>
 <table>
   <tr>
     <th width="300px">Tecnologia/Metodologia</th>
@@ -453,7 +456,7 @@ Adquiri valiosas lições ao me envolver com o mundo do JavaScript. Anteriorment
   </tr>
 </table>
 
-<h4>Soft Skills</h4>
+<h4>Competências Comportamentais</h4>
 <h5>Confiança:</h5>
 <p align="justify">A experiência positiva com o ambiente em nuvem da Oracle e a criação de dashboards e bancos de dados demonstram uma crescente confiança em lidar com tecnologias e ambientes complexos. </p>
 <h5>Adaptabilidade:</h5>
@@ -465,11 +468,11 @@ Adquiri valiosas lições ao me envolver com o mundo do JavaScript. Anteriorment
 <h3>Análise de Sentimento por Geolocalização</h3>
 <h4>6º Semestre • 01/2024 - 07/2024 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Imagem</a></p>
-<p align="justify">Neste desafio, tivemos a oportunidade de criar uma plataforma online que permite aos proprietários de restaurantes gerir as suas operações de forma eficiente e intuitiva. O objetivo é criar um sistema abrangente que ofereça recursos como painéis de controle, gráficos, relatórios e funcionalidades para gestão de pessoal, fornecedores e insumos.
+<p align="justify">Desenvolvemos a Pandalyze, uma plataforma que analisa comentários sobre serviços, produtos e promoções, gerando insights através de uma inteligência artificial que classifica os comentários como positivos, neutros ou negativos. A plataforma respeita as normas da LGPD, oferece controle de acesso, um sistema robusto de logs e métricas sobre a saúde da IA. Com recursos como Short Tables para upload de bases CSV específicas e avaliação contínua da IA.
 </p>
 
 <h4>Prévia da Solução</h4>
-<p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo banco de dados, outra pelo backend e a ultima pelo frontend.</p>
+<p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo banco de dados, outra pelo backend, outra pelo desenvovlimento da IA e a ultima pelo frontend.</p>
 <h5>Painéis e Dashboards:</h5>
 <p align="justify">Os painéis e dashboards fornecerão aos proprietários de restaurantes uma visão consolidada e visualmente atraente das principais métricas e indicadores relacionados às operações do restaurante. Isso incluirá dados sobre vendas, desempenho de produtos, análise de clientes, gestão de estoque, despesas e muito mais.</p>
 <h5>Gestão de Insumos:</h5>
@@ -507,23 +510,23 @@ No final, assumi um papel semelhante ao de um Administrador de Banco de Dados (D
 <p align="justify">
 Adquiri valiosas lições ao me envolver com o mundo do JavaScript. Anteriormente, enfrentava dificuldades para compreender uma linguagem não tipada, mas essa experiência me proporcionou uma melhor compreensão de seu funcionamento. Além disso, tive uma experiência positiva com o ambiente em nuvem da Oracle, onde trabalhei com o Oracle Analytics para criar dashboards e com o banco de dados. Essas experiências ampliaram meu conjunto de habilidades e me proporcionaram confiança para enfrentar novos desafios.
 
-<h4>Hard Skills</h4>
+<h4>Competências Técnicas</h4>
 <table>
   <tr>
     <th width="300px">Tecnologia/Metodologia</th>
     <th width="300px">Classificação</th>
   </tr>
   <tr>
-    <td>Java Script</td>
-    <td>★★★★★☆☆☆☆☆</td>
-  </tr>
-    <tr>
-    <td>Vue.js</td>
-    <td>★★★★☆☆☆☆☆☆</td>
-  </tr>
-    <tr>
-    <td>Figma</td>
+    <td>Python</td>
     <td>★★★★★★★★☆☆</td>
+  </tr>
+    <tr>
+    <td>Machine Learning</td>
+    <td>★★★★★★☆☆☆☆</td>
+  </tr>
+    <tr>
+    <td>Deep Learning</td>
+    <td>★★★★★☆☆☆☆☆</td>
   </tr>
   <tr>
     <td>Banco de Dados</td>
@@ -543,7 +546,7 @@ Adquiri valiosas lições ao me envolver com o mundo do JavaScript. Anteriorment
   </tr>
 </table>
 
-<h4>Soft Skills</h4>
+<h4>Competências Comportamentais</h4>
 <h5>Confiança:</h5>
 <p align="justify">A experiência positiva com o ambiente em nuvem da Oracle e a criação de dashboards e bancos de dados demonstram uma crescente confiança em lidar com tecnologias e ambientes complexos. </p>
 <h5>Adaptabilidade:</h5>
