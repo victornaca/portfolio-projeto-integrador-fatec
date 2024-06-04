@@ -91,7 +91,7 @@ Explorar a linguagem de programação Python e adquirir habilidades no tratament
 <table>
   <tr>
     <th width="300px">Tecnologia/Metodologia</th>
-    <th width="300px">Classificação</th>
+    <th width="300px">Proficiência</th>
   </tr>
   <tr>
     <td>Python</td>
@@ -174,7 +174,7 @@ Aprendi a lidar com uma variedade de personalidades e características individua
 <table>
   <tr>
     <th width="300px">Tecnologia/Metodologia</th>
-    <th width="300px">Classificação</th>
+    <th width="300px">Proficiência</th>
   </tr>
   <tr>
     <td>Java</td>
@@ -236,7 +236,6 @@ Aprendi a lidar com uma variedade de personalidades e características individua
 <p align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: Para consumir as API's e trazer para a interface.</p>
 <p align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>: Para desenvolvimento da interface.</p>
 <p align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>: Para estilizar a interface.</p>
-<p align="justify"><a href="https://www.chartjs.org/">Chart.js</a>: Biblioteca de gráficos JavaScript simples, porém flexível, para a web moderna.</p>
 <p align="justify"><a href="https://www.postgresql.org/">PostgreSQL</a>: Sistema de Gerenciamento de Banco de Dados para desenvolvimento do projeto.</p>
 
 <h4>Contribuições Pessoais</h4>
@@ -257,7 +256,7 @@ Minhas responsabilidades incluíram a criação e validação do Diagrama Entida
 
 <h4>Lições Aprendidas</h4>
 <p align="justify">
-Durante este projeto, adquiri uma compreensão fundamental da função de DBA, desde a concepção inicial até a implementação prática. Desenvolver os diagramas do banco de dados, levando em consideração as regras de negócios e as funcionalidades discutidas com o cliente, foi uma experiência enriquecedora que ampliou meu conhecimento nesta área.
+Durante este projeto, adquiri uma compreensão fundamental da função de Administrador de Banco de Dados, desde a concepção inicial até a implementação prática. Desenvolver os diagramas do banco de dados, levando em consideração as regras de negócios e as funcionalidades discutidas com o cliente, foi uma experiência enriquecedora que ampliou meu conhecimento nesta área.
 </p>
 <p align="justify">
 Além disso, meu primeiro contato com triggers e procedures foi uma oportunidade de aprendizado valiosa. Ao criar um Log de Auditoria eficiente, pude explorar e compreender melhor os recursos avançados do banco de dados, destacando-se como um diferencial significativo no projeto.
@@ -267,7 +266,7 @@ Além disso, meu primeiro contato com triggers e procedures foi uma oportunidade
 <table>
   <tr>
     <th width="300px">Tecnologia/Metodologia</th>
-    <th width="300px">Classificação</th>
+    <th width="300px">Proficiência</th>
   </tr>
   <tr>
     <td>Spring Boot</td>
@@ -297,7 +296,7 @@ Além disso, meu primeiro contato com triggers e procedures foi uma oportunidade
 
 <h4>Competências Comportamentais</h4>
 <h5>Comunicação Eficaz, Compreensão do cliente, Negociação</h5>
-<p align="justify">Desempenhar o papel de DBA e desenvolver uma solução escalável demandou habilidades de comunicação eficazes entre o cliente e o Product Owner. Essa capacidade de compreender as necessidades do cliente e traduzi-las em requisitos técnicos foi fundamental para o sucesso do projeto.</p>
+<p align="justify">Desempenhar o papel de DBA e desenvolver uma solução escalável demandou habilidades de comunicação eficazes com o cliente e o Product Owner realizando uma ponte tecnica entre ambos. Essa capacidade de compreender as necessidades do cliente e traduzi-las em requisitos técnicos foi fundamental para o sucesso do projeto.</p>
 
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/Embraer.png" width="100%"></p>
 <h3>Controle de Configurações de Aeronaves</h3>
@@ -321,21 +320,24 @@ Além disso, meu primeiro contato com triggers e procedures foi uma oportunidade
 <p align="justify">Através da lógica de ordem de serviço, um item seria automaticamente disponibilizado se atendesse aos requisitos dos serviços já aplicados no chassi. Isso significa que, após a conclusão dos serviços necessários ou upgrades em um chassi específico, os itens correspondentes seriam automaticamente marcados como disponíveis para instalação.</p>
 
 <h4>Tecnologias Utilizadas</h4>
-<p align="justify"><a href="https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html">Java 14</a>: Linguagem utilizada para desenvolvimento da aplicação back-end.</p>
-<p align="justify"><a href="https://spring.io/projects/spring-boot">Spring Boot</a>: Para criação das API's REST do backend e sistema de acessos.</p>
-<p align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: Para consumir as API's e trazer para a interface.</p>
-<p align="justify"><a href="https://vuejs.org/">VUE.js</a>: Framework para auxiliar na componentização da aplicação.</p>
-<p align="justify"><a href="https://www.oracle.com/br/database//">Oracle Cloud</a>: Sistema de Gerenciamento de Banco de Dados em cloud.</p>
+<p align="justify"><a href="https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html">Java 14</a>: Linguagem utilizada para o desenvolvimento do back-end da aplicação.</p>
+<p align="justify"><a href="https://spring.io/projects/spring-boot">Spring Boot</a>: Framework utilizado para a criação das APIs REST e para o sistema de gerenciamento de acessos.</p>
+<p align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: Linguagem de programação usada para consumir as APIs e trazer os dados para a interface.</p>
+<p align="justify"><a href="https://vuejs.org/">Vue.js</a>: Framework utilizado para auxiliar na componentização da interface da aplicação.</p>
+<p align="justify"><a href="https://www.oracle.com/br/database/">Oracle Cloud</a>: Plataforma de gerenciamento de banco de dados em nuvem utilizada para armazenar e gerenciar os dados da aplicação.</p>
 
 <h4>Contribuições Pessoais</h4>
 <p align="justify">
-Minha contribuição pessoal foi desempenhar a função de desenvolvedor backend utilizando o framework Spring Boot. Durante esse processo, fui responsável por criar endpoints que desempenharam um papel crucial em auxiliar meus colegas no avanço do projeto. Ao desenvolver esses endpoints, meu objetivo era fornecer soluções eficientes e robustas que facilitassem a integração de diferentes componentes do sistema. </p>
+Como desenvolvedor backend, assumi a responsabilidade de criar endpoints essenciais utilizando o framework Spring Boot. Durante o desenvolvimento, concentrei-me em fornecer soluções eficientes e robustas que facilitassem a integração dos diferentes componentes do sistema, auxiliando meus colegas no avanço do projeto. </p>
+<p align="justify">
+Uma curiosidade é que, nesse projeto, eu iniciei em um grupo realizando a parte de desenvolvimento backend. Após a segunda entrega, mudei para outro grupo, onde continuei no desenvolvimento backend, que era um ponto fraco no novo grupo. Além disso, utilizei minhas ideias e conhecimentos de modelagem de dados para ajudar a reestruturar o banco de dados da nova equipe. </p>
 
+<h5>Principais Contribuições:</h5>
 <ul>
-  <li>Desenvolvimento de endpoints da API.</li>
-  <li>Implementação da lógica de negócios.</li>
-  <li>Integração com o banco de dados.</li>
-  <li>Implementação de segurança.</li>
+  <li>Desenvolvimento de Endpoints da API: Criação de endpoints para facilitar a integração de diferentes componentes do sistema.</li>
+  <li>Implementação da Lógica de Negócios: Desenvolvimento e implementação da lógica de negócios para atender às necessidades do projeto.</li>
+  <li>Desenvolvimento do Banco de dados em Nuvem: Reestruturação do novo banco de dados e colocando em produção na Azure Cloud.</li>
+  <li>Integração com o Banco de Dados: Conexão e interação com o banco de dados para garantir a persistência e consistência dos dados.</li>
 </ul>
 
 <h4>Lições Aprendidas</h4>
@@ -346,7 +348,7 @@ Foi fantástico perceber que consegui avançar no desenvolvimento backend! Sempr
 <table>
   <tr>
     <th width="300px">Tecnologia/Metodologia</th>
-    <th width="300px">Classificação</th>
+    <th width="300px">Proficiência</th>
   </tr>
   <tr>
     <td>Spring Boot</td>
@@ -367,18 +369,16 @@ Foi fantástico perceber que consegui avançar no desenvolvimento backend! Sempr
 </table>
 
 <h4>Competências Comportamentais</h4>
-<h5>Resiliência:</h5>
-<p align="justify">A resiliência foi uma habilidade essencial que desenvolvi ao trabalhar com Java. Enquanto eu me deparava com desafios e complexidades na linguagem, aprendi a persistir e a encontrar maneiras de superar as dificuldades. </p>
-<h5>Adaptabilidade:</h5>
-<p align="justify">Como em outros projetos tive pouco contato com backend Java, assumir a responsabilidade de ser backend e entregar tudo que foi proposto foi um grande desafio.</p>
-<h5>Pensamento analítico:</h5>
-<p align="justify">A complexidade envolvida no desenvolvimento de software nessa linguagem me incentivou a analisar problemas de forma mais crítica e a buscar soluções bem fundamentadas.</p>
+<h5>Adaptação:</h5>
+<p align="justify">Tive uma situação complicada com um integrante do primeiro grupo, o que me levou a mudar de grupo no meio da sprint. Trabalhar com pessoas com quem eu não tinha tanto vínculo foi um grande desafio. Esse semestre me fortaleceu mentalmente e me deixou mais adaptável a mudanças repentinas. </p>
+<h5>Persistência:</h5>
+<p align="justify">Encarar uma linguagem de programação com a qual eu não tinha tanto vínculo, persistir e querer aprender a desenvolver em Java foi fundamental para meu crescimento pessoal. Mesmo que Java não seja a minha linguagem principal no futuro, posso dizer que tive uma experiência valiosa em um projeto como desenvolvedor backend utilizando Spring Boot.</p>
 
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/Oracle.png" width="100%"></p>
 <h3>Análise e Gerenciamento de Restaurantes</h3>
 <h4>5º Semestre • 07/2023 - 12/2023 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">ORACLE</a></p>
-<p align="justify">Neste desafio, tivemos a oportunidade de criar uma plataforma online que permite aos proprietários de restaurantes gerir as suas operações de forma eficiente e intuitiva. O objetivo é criar um sistema abrangente que ofereça recursos como painéis de controle, gráficos, relatórios e funcionalidades para gestão de pessoal, fornecedores e insumos.
+<p align="justify">Neste desafio, tivemos a oportunidade de criar uma plataforma online chamada Oracle Dinner, que permite aos proprietários de restaurantes gerirem suas operações de forma eficiente e intuitiva. Esta plataforma oferece um sistema abrangente com recursos como painéis de controle, gráficos, relatórios e funcionalidades para a gestão de pessoal, fornecedores e insumos. A Oracle Dinner visa otimizar a administração dos restaurantes, proporcionando uma solução completa e integrada para atender às diversas necessidades dos gestores.
 </p>
 
 <h4>Prévia da Solução</h4>
@@ -404,31 +404,32 @@ Foi fantástico perceber que consegui avançar no desenvolvimento backend! Sempr
 
 <h4>Contribuições Pessoais</h4>
 <p align="justify">
-Minha contribuição pessoal foi bastante diversificada e impactante para o projeto. Comecei desenvolvendo os dashboards no Oracle Analytics, garantindo que os proprietários de restaurantes tivessem acesso a insights valiosos sobre suas operações de forma visual e intuitiva. Em seguida, assumi a responsabilidade de desenvolver a interface do usuário (UI) com JavaScript e Vue.js, criando uma experiência de usuário moderna e atraente para a plataforma online. </p>
-
+Minha contribuição pessoal foi bastante diversificada e impactante para o projeto. Iniciei o desenvolvimento dos dashboards no Oracle Analytics, garantindo que os proprietários de restaurantes tivessem acesso a insights valiosos sobre suas operações de forma visual e intuitiva. Além disso, assumi a responsabilidade de desenvolver a interface do usuário utilizando JavaScript e Vue.js, proporcionando uma experiência moderna e atraente para a plataforma online.
+</p>
 <p align="justify">
-No final, assumi um papel semelhante ao de um Administrador de Banco de Dados (DBA), garantindo a integridade, segurança e desempenho do banco de dados subjacente.</p>
+No final do projeto, desempenhei um papel crucial na administração do banco de dados, garantindo a integridade, segurança e desempenho do sistema. Desenvolvi triggers para notificações e controle de estoque, assegurando que os processos críticos fossem monitorados e gerenciados eficazmente.
 
+<h5>Principais Contribuições:</h5>
 <ul>
-  <li>Desenvolvimento da tela da aplicação.</li>
-  <li>Desenvolvimento dos dashboards em BI.</li>
-  <li>Desenvovlimento da Trigger de notificação no banco de dados.</li>
-  <li>Desenvolvimento da Trigger de estoque.</li>
+  <li>Desenvolvimento da Tela da Aplicação: Criação de uma interface de usuário moderna e intuitiva utilizando JavaScript e Vue.js.</li>
+  <li>Desenvolvimento dos Dashboards em BI: Implementação de dashboards no Oracle Analytics para fornecer insights valiosos aos proprietários de restaurantes.</li>
+  <li>Desenvolvimento de Trigger de Notificação: Criação de triggers no banco de dados para notificações automáticas de eventos críticos.</li>
+  <li>Desenvolvimento de Trigger de Estoque: Implementação de triggers para monitorar e gerenciar o estoque de forma eficaz.</li>
 </ul>
 
 <h4>Lições Aprendidas</h4>
 <p align="justify">
-Adquiri valiosas lições ao me envolver com o mundo do JavaScript. Anteriormente, enfrentava dificuldades para compreender uma linguagem não tipada, mas essa experiência me proporcionou uma melhor compreensão de seu funcionamento. Além disso, tive uma experiência positiva com o ambiente em nuvem da Oracle, onde trabalhei com o Oracle Analytics para criar dashboards e com o banco de dados. Essas experiências ampliaram meu conjunto de habilidades e me proporcionaram confiança para enfrentar novos desafios.
+Ao me envolver com o mundo do JavaScript, adquiri valiosas lições. Anteriormente, enfrentava dificuldades para compreender uma linguagem não tipada, mas essa experiência me proporcionou uma melhor compreensão de seu funcionamento e aumentou minha confiança. Trabalhar com o ambiente em nuvem da Oracle, especificamente com o Oracle Analytics para criar dashboards e com o banco de dados, foi uma experiência enriquecedora. Essas experiências ampliaram meu conjunto de habilidades e me prepararam melhor para enfrentar novos desafios.</p>
 
 <h4>Competências Técnicas</h4>
 <table>
   <tr>
     <th width="300px">Tecnologia/Metodologia</th>
-    <th width="300px">Classificação</th>
+    <th width="300px">Proficiência</th>
   </tr>
   <tr>
     <td>Java Script</td>
-    <td>★★★★★☆☆☆☆☆</td>
+    <td>★★★★☆☆☆☆☆☆</td>
   </tr>
     <tr>
     <td>Vue.js</td>
@@ -440,7 +441,7 @@ Adquiri valiosas lições ao me envolver com o mundo do JavaScript. Anteriorment
   </tr>
   <tr>
     <td>Banco de Dados</td>
-    <td>★★★★★★★★☆☆</td>
+    <td>★★★★★★★☆☆☆</td>
   </tr>
     <tr>
     <td>Oracle Analytics</td>
@@ -448,7 +449,7 @@ Adquiri valiosas lições ao me envolver com o mundo do JavaScript. Anteriorment
   </tr>
   <tr>
     <td>SQL</td>
-    <td>★★★★★★★★★☆</td>
+    <td>★★★★★★★★☆☆</td>
   </tr>
     <tr>
     <td>Git</td>
@@ -457,32 +458,30 @@ Adquiri valiosas lições ao me envolver com o mundo do JavaScript. Anteriorment
 </table>
 
 <h4>Competências Comportamentais</h4>
-<h5>Confiança:</h5>
-<p align="justify">A experiência positiva com o ambiente em nuvem da Oracle e a criação de dashboards e bancos de dados demonstram uma crescente confiança em lidar com tecnologias e ambientes complexos. </p>
-<h5>Adaptabilidade:</h5>
-<p align="justify">Novamente mergulhar em uma nova linguagem como JavaScript mostrou o quanto sou flexivel e tenho uma boa adaptabilidade.</p>
-<h5>Resolução de Conflitos:</h5>
-<p align="justify">Ao me deparar com situações adversas durante o projeto em equipe, souber manter a calma e proporcionar a oportunidade para que todos expressem suas preocupações foi algo importante para o sucesso do projeto.</p>
+<h5>Adaptabilidade, Trabalho em equipe, Flexibilidade:</h5>
+<p align="justify">Durante o projeto, enfrentamos algumas dificuldades com um membro responsável pelo banco de dados. Decidimos realizar mudanças e, junto com a equipe, optamos por eu assumir essa função. Essa experiência foi enriquecedora, pois demonstrou minha adaptabilidade, mostrando que estou pronto para ajudar em diversas áreas e demandas do time, conforme necessário.</p>
 
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/Imagem.png" width="100%"></p>
 <h3>Análise de Sentimento por Geolocalização</h3>
 <h4>6º Semestre • 01/2024 - 07/2024 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Imagem</a></p>
-<p align="justify">Desenvolvemos a Pandalyze, uma plataforma que analisa comentários sobre serviços, produtos e promoções, gerando insights através de uma inteligência artificial que classifica os comentários como positivos, neutros ou negativos. A plataforma respeita as normas da LGPD, oferece controle de acesso, um sistema robusto de logs e métricas sobre a saúde da IA. Com recursos como Short Tables para upload de bases CSV específicas e avaliação contínua da IA.
-</p>
-
+<p align="justify">Desenvolvemos a Pandalyze, uma plataforma que analisa comentários sobre serviços, produtos e promoções, gerando insights por meio de inteligência artificial que classifica os comentários como positivos, neutros ou negativos. A plataforma respeita as normas da LGPD, oferece controle de acesso, um sistema robusto de logs e métricas sobre a saúde da IA, além de recursos como Short Tables para o upload de bases CSV específicas e avaliação contínua da IA.</p>
 <h4>Prévia da Solução</h4>
-<p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo banco de dados, outra pelo backend, outra pelo desenvovlimento da IA e a ultima pelo frontend.</p>
-<h5>Painéis e Dashboards:</h5>
-<p align="justify">Os painéis e dashboards fornecerão aos proprietários de restaurantes uma visão consolidada e visualmente atraente das principais métricas e indicadores relacionados às operações do restaurante. Isso incluirá dados sobre vendas, desempenho de produtos, análise de clientes, gestão de estoque, despesas e muito mais.</p>
-<h5>Gestão de Insumos:</h5>
-<p align="justify">a solução busca oferecer ferramentas eficazes para os proprietários de restaurantes gerenciarem o abastecimento e utilização de ingredientes, produtos e materiais necessários para suas operações. </p>
-<h5>Controle de Estoque:</h5>
-<p align="justify">Implementar um sistema para monitorar o nível de estoque de cada insumo, permitindo que os proprietários saibam exatamente o que está disponível em seus armazéns.</p>
-<h5>Gestão de Fornecedores :</h5>
-<p align="justify">Manter um registro detalhado dos fornecedores de cada insumo, incluindo informações de contato, histórico de pedidos e contratos, para facilitar a comunicação e negociação.</p>
-<h5>Análise de Custos:</h5>
-<p align="justify">Fornecer relatórios e análises detalhados sobre os custos associados aos insumos, permitindo que os proprietários identifiquem oportunidades de economia e otimização de recursos.</p>
+<p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo banco de dados, outra pelo backend, outra pelo desenvolvimento da IA e a última pelo frontend.</p>
+<h5>Dashboard:</h5>
+<p align="justify">O dashboard traz todos os gráficos necessários para análise de sentimento por geolocalização, como, por exemplo, estados com mais sentimentos classificados durante o tempo e classificação geral do total de sentimentos.</p>
+<h5>Filtros Iterativos:</h5>
+<p align="justify">Para melhorar o uso do dashboard, colocamos filtros personalizados que filtram data, países, estado, tipo de sentimento e até qual dataset você deseja visualizar.</p>
+<h5>Sistema de Short Table:</h5>
+<p align="justify">A plataforma está preparada para o usuário inserir uma nova base de dados de seus produtos, serviços, etc., e receber insights sobre. Essa base fica salva e ele pode consultar essa base quantas vezes achar necessário, tirando relatórios.</p>
+<h5>Relatórios Personalizados:</h5>
+<p align="justify">Cada gráfico tem a possibilidade de ser exportado em formato CSV ou como imagem para análises futuras.</p>
+<h5>Notificações:</h5>
+<p align="justify">A plataforma possui um sistema de notificação que auxilia tanto o usuário como o administrador referente ao cadastro de novas pessoas, alteração de usuário, exportação de relatórios, etc.</p>
+<h5>Inteligência Artificial:</h5>
+<p align="justify">Trouxemos uma inteligência artificial treinada com mais de 600 mil comentários utilizando modelos avançados como RNN, onde a inteligência artificial, por meio de textos, consegue identificar se aquele texto é negativo, neutro ou positivo.</p>
+<h5>LGPD:</h5>
+<p align="justify">Investimos tempo em seguir as normas da LGPD, dando mais segurança ao nosso usuário, com termos de privacidade, transparência de dados e anonimização dos dados sensíveis.</p>
 
 <h4>Tecnologias Utilizadas</h4>
 <p align="justify"><a href="https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html">Java 14</a>: Linguagem utilizada para desenvolvimento da aplicação back-end.</p>
@@ -494,27 +493,27 @@ Adquiri valiosas lições ao me envolver com o mundo do JavaScript. Anteriorment
 
 <h4>Contribuições Pessoais</h4>
 <p align="justify">
-Minha contribuição pessoal foi bastante diversificada e impactante para o projeto. Comecei desenvolvendo os dashboards no Oracle Analytics, garantindo que os proprietários de restaurantes tivessem acesso a insights valiosos sobre suas operações de forma visual e intuitiva. Em seguida, assumi a responsabilidade de desenvolver a interface do usuário (UI) com JavaScript e Vue.js, criando uma experiência de usuário moderna e atraente para a plataforma online. </p>
-
+Minha contribuição pessoal envolveu o desenvolvimento integral da Inteligência Artificial (IA) para a Pandalyze. Iniciei com um modelo mais simples utilizando Machine Learning com Scikit-Learn, que classificava comentários como negativos ou positivos a partir de uma base de dados menor. Com o decorrer das sprints, fui evoluindo o modelo, incorporando bases de dados maiores e utilizando modelos mais complexos, como Redes Neurais Recorrentes (RNN), realizando ajustes finos nas parametrizações e alcançando um score médio de 76% de assertividade.</p>
 <p align="justify">
-No final, assumi um papel semelhante ao de um Administrador de Banco de Dados (DBA), garantindo a integridade, segurança e desempenho do banco de dados subjacente.</p>
-
+Além disso, disponibilizei uma API para consumo pelo nosso backend, integrando a inteligência artificial na aplicação.</p>
+<h5>Principais Contribuições:</h5>
 <ul>
-  <li>Desenvolvimento da tela da aplicação.</li>
-  <li>Desenvolvimento dos dashboards em BI.</li>
-  <li>Desenvovlimento da Trigger de notificação no banco de dados.</li>
-  <li>Desenvolvimento da Trigger de estoque.</li>
+  <li>Desenvolvimento da Inteligência Artificial: Iniciei com um modelo simples e evoluí para um modelo mais complexo utilizando RNN.</li>
+  <li>Ajuste de Parâmetros: Realizei ajustes finos para melhorar a performance da IA, atingindo um score médio de 76% de assertividade.</li>
+  <li>Integração da IA: Disponibilizei uma API para conectar a inteligência artificial à aplicação web, facilitando a integração com o backend.</li>
 </ul>
 
 <h4>Lições Aprendidas</h4>
 <p align="justify">
-Adquiri valiosas lições ao me envolver com o mundo do JavaScript. Anteriormente, enfrentava dificuldades para compreender uma linguagem não tipada, mas essa experiência me proporcionou uma melhor compreensão de seu funcionamento. Além disso, tive uma experiência positiva com o ambiente em nuvem da Oracle, onde trabalhei com o Oracle Analytics para criar dashboards e com o banco de dados. Essas experiências ampliaram meu conjunto de habilidades e me proporcionaram confiança para enfrentar novos desafios.
+Eu sempre fui muito interessado na área de dados e inteligência artificial, e ter a oportunidade de desenvolver uma IA do zero e ver sua evolução foi uma experiência incrível. Aprendi sobre diversos modelos, bibliotecas e técnicas para melhorar a performance da IA, conseguindo alcançar um score aceitável e útil.</p>
+<p align="justify">
+O cliente, como especialista na área, forneceu várias dicas valiosas e sugeriu técnicas que agregaram à inteligência artificial. Ele destacou a importância de deixar clara a evolução do modelo e recomendou o uso de outras métricas para medir a performance, como o F1-score.</p>
 
 <h4>Competências Técnicas</h4>
 <table>
   <tr>
     <th width="300px">Tecnologia/Metodologia</th>
-    <th width="300px">Classificação</th>
+    <th width="300px">Proficiência</th>
   </tr>
   <tr>
     <td>Python</td>
@@ -529,27 +528,13 @@ Adquiri valiosas lições ao me envolver com o mundo do JavaScript. Anteriorment
     <td>★★★★★☆☆☆☆☆</td>
   </tr>
   <tr>
-    <td>Banco de Dados</td>
+    <td>SQL</td>
     <td>★★★★★★★★☆☆</td>
   </tr>
-    <tr>
-    <td>Oracle Analytics</td>
-    <td>★★★★★☆☆☆☆☆</td>
-  </tr>
   <tr>
-    <td>SQL</td>
-    <td>★★★★★★★★★☆</td>
-  </tr>
-    <tr>
     <td>Git</td>
     <td>★★★★★★★☆☆☆</td>
   </tr>
 </table>
 
 <h4>Competências Comportamentais</h4>
-<h5>Confiança:</h5>
-<p align="justify">A experiência positiva com o ambiente em nuvem da Oracle e a criação de dashboards e bancos de dados demonstram uma crescente confiança em lidar com tecnologias e ambientes complexos. </p>
-<h5>Adaptabilidade:</h5>
-<p align="justify">Novamente mergulhar em uma nova linguagem como JavaScript mostrou o quanto sou flexivel e tenho uma boa adaptabilidade.</p>
-<h5>Resolução de Conflitos:</h5>
-<p align="justify">Ao me deparar com situações adversas durante o projeto em equipe, souber manter a calma e proporcionar a oportunidade para que todos expressem suas preocupações foi algo importante para o sucesso do projeto.</p>
