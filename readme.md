@@ -484,12 +484,13 @@ Ao me envolver com o mundo do JavaScript, adquiri valiosas lições. Anteriormen
 <p align="justify">Investimos tempo em seguir as normas da LGPD, dando mais segurança ao nosso usuário, com termos de privacidade, transparência de dados e anonimização dos dados sensíveis.</p>
 
 <h4>Tecnologias Utilizadas</h4>
-<p align="justify"><a href="https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html">Java 14</a>: Linguagem utilizada para desenvolvimento da aplicação back-end.</p>
+<p align="justify"><a href="https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html">Java 17</a>: Linguagem utilizada para desenvolvimento da aplicação back-end.</p>
 <p align="justify"><a href="https://spring.io/projects/spring-boot">Spring Boot</a>: Para criação das API's REST do backend e sistema de acessos.</p>
 <p align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: Para consumir as API's e trazer para a interface.</p>
-<p align="justify"><a href="https://vuejs.org/">VUE.js</a>: Framework para auxiliar na componentização da aplicação.</p>
-<p align="justify"><a href="https://www.oracle.com/br/database/">Oracle Cloud</a>: Sistema de Gerenciamento de Banco de Dados em cloud.</p>
-<p align="justify"><a href="https://www.oracle.com/br/business-analytics/">Oracle Analytics</a>: Sistema de BI para criação de dashboards.</p>
+<p align="justify"><a href="https://vuejs.org/">React.js</a>: Framework para auxiliar na componentização da aplicação.</p>
+<p align="justify"><a href="https://www.oracle.com/br/database/">PostgreSQL</a>: Banco de dados para armazenar a aplicação.</p>
+<p align="justify"><a href="https://www.oracle.com/br/database/">MongoDB</a>: Banco de dados suportar os logs de auditoria</p>
+<p align="justify"><a href="https://www.oracle.com/br/business-analytics/">Python</a>: Sistema de BI para criação de dashboards.</p>
 
 <h4>Contribuições Pessoais</h4>
 <p align="justify">
