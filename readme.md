@@ -489,8 +489,8 @@ Ao me envolver com o mundo do JavaScript, adquiri valiosas lições. Anteriormen
 <p align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: Para consumir as API's e trazer para a interface.</p>
 <p align="justify"><a href="https://vuejs.org/">React.js</a>: Framework para auxiliar na componentização da aplicação.</p>
 <p align="justify"><a href="https://www.oracle.com/br/database/">PostgreSQL</a>: Banco de dados para armazenar a aplicação.</p>
-<p align="justify"><a href="https://www.oracle.com/br/database/">MongoDB</a>: Banco de dados suportar os logs de auditoria</p>
-<p align="justify"><a href="https://www.oracle.com/br/business-analytics/">Python</a>: Sistema de BI para criação de dashboards.</p>
+<p align="justify"><a href="https://www.oracle.com/br/database/">MongoDB</a>: Banco de dados suportar os logs de auditoria.</p>
+<p align="justify"><a href="https://www.oracle.com/br/business-analytics/">Python</a>: Desenvolvimento da Inteligencia Artificial e criação da API.</p>
 
 <h4>Contribuições Pessoais</h4>
 <p align="justify">
@@ -539,3 +539,5 @@ O cliente, como especialista na área, forneceu várias dicas valiosas e sugeriu
 </table>
 
 <h4>Competências Comportamentais</h4>
+<h5>Comunicação Eficaz, Trabalho em equipe, Foco no Cliente:</h5>
+<p align="justify">Mesmo com algumas divergências de ideias e alguns desentendimentos, os integrantes do grupo e eu sempre conseguimos chegar a uma solução, mantendo o foco na entrega de qualidade para o cliente. A forma como lidamos com essas situações é um excelente exemplo de trabalho em equipe e compromisso com o cliente.</p>
