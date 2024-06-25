@@ -1,5 +1,5 @@
 <h1 p align="center"> 
-Victor Fernandes dos Santos | Portifólio das APIs 
+Victor Fernandes dos Santos | Portfólio das APIs 
 
 <h2>Introdução</h2>
 <h3>O que é API?</h3>
@@ -19,7 +19,7 @@ Victor Fernandes dos Santos | Portifólio das APIs
 
 <h3>Sobre mim</h3>
 <p align="center"><img src="https://github.com/victornaca/portfolio-projeto-integrador-fatec/blob/main/Imagens/VictorFernandes.png" width="20%"></p>
-<p align="justify">Sou formado como Técnico em Tecnologia da Informação pela Escola Tecnológica de Caçapava (ETEC) e atualmente estou cursando como tecnólogo em Banco de Dados na Faculdade de Tecnologia de São José dos Campos (FATEC).</p>
+<p align="justify">Sou formado como Técnico em Tecnologia da Informação pela Escola Tecnológica de Caçapava (ETEC) e estou cursando como tecnólogo em Banco de Dados na Faculdade de Tecnologia de São José dos Campos (FATEC).</p>
 <p align="justify">Ao longo da minha trajetória profissional, acumulei vasta experiência na área de tecnologia e dados, mesmo antes de ingressar na faculdade. Minha primeira oportunidade foi como auxiliar de TI na Rede Simpatia, onde pude retomar meu contato com a tecnologia e dados.</p>
 <p align="justify">Na EDP Brasil, como estagiário de Analista de Dados, participei ativamente de projetos de redução de custos no cluster e da reestruturação de jobs no nosso Lakehouse. Isso resultou em uma economia significativa de 40% para o cluster.</p>
 <p align="justify">Como Analista de Dados na Safran, enfrentei o desafio de desenvolver um time de dados no Brasil. Junto com mais três analistas, desenvolvemos uma metodologia para os projetos, montamos uma arquitetura de datalake, identificamos possíveis projetos para IA Generativa e Aprendizado de Maquina, organizamos os KPIs da empresa e desenvolvemos BI's robustos e temáticos para surportar os times de projeto e diretoria.</p>
@@ -307,7 +307,7 @@ Além disso, meu primeiro contato com triggers e procedures foi uma oportunidade
 <p align="justify">Com o ACC, a Embraer poderá gerenciar e controlar a configuração de suas aeronaves, proporcionando uma solução eficiente e eficaz para otimizar seu processo produtivo. O sistema permitirá que os pilotos verifiquem a configuração da aeronave que estão voando, comparem os itens presentes e saibam se existem Follow-on-Limitations (FOLs) para elas, garantindo assim a qualidade do despacho.</p>
 
 <h4>Prévia da Solução</h4>
-<p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo banco de dados, outra pelo backend e a ultima pelo frontend.</p>
+<p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo banco de dados, uma pelo backend e uma pelo frontend.</p>
 <h5>Injestão de CSV:</h5>
 <p align="justify">A ingestão de CSV é importante porque facilita a atualização e a inserção de informações no sistema de forma rápida e eficiente. Como a Embraer lida com uma grande variedade de aeronaves e configurações, é fundamental ter uma maneira eficaz de incorporar novos dados de configuração ou fazer alterações nos existentes.</p>
 <h5>Visualizar Itens:</h5>
@@ -382,7 +382,7 @@ Foi fantástico perceber que consegui avançar no desenvolvimento backend! Sempr
 </p>
 
 <h4>Prévia da Solução</h4>
-<p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, onde uma ficou responsável pelo banco de dados, outra pelo backend e a ultima pelo frontend.</p>
+<p align="justify">A partir dos objetivos propostos, houve uma divisão de equipes, uma ficou responsável pelo banco de dados, uma pelo backend e a uma pelo frontend.</p>
 <h5>Painéis e Dashboards:</h5>
 <p align="justify">Os painéis e dashboards fornecerão aos proprietários de restaurantes uma visão consolidada e visualmente atraente das principais métricas e indicadores relacionados às operações do restaurante. Isso incluirá dados sobre vendas, desempenho de produtos, análise de clientes, gestão de estoque, despesas e muito mais.</p>
 <h5>Gestão de Insumos:</h5>
@@ -485,8 +485,8 @@ Ao me envolver com o mundo do JavaScript, adquiri valiosas lições. Anteriormen
 
 <h4>Tecnologias Utilizadas</h4>
 <p align="justify"><a href="https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html">Java 17</a>: Linguagem utilizada para desenvolvimento da aplicação back-end.</p>
-<p align="justify"><a href="https://spring.io/projects/spring-boot">Spring Boot</a>: Para criação das API's REST do backend e sistema de acessos.</p>
-<p align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: Para consumir as API's e trazer para a interface.</p>
+<p align="justify"><a href="https://spring.io/projects/spring-boot">Spring Boot</a>: Criação das API's REST do backend e sistema de acessos.</p>
+<p align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: Consumir as API's e trazer para a interface.</p>
 <p align="justify"><a href="https://vuejs.org/">React.js</a>: Framework para auxiliar na componentização da aplicação.</p>
 <p align="justify"><a href="https://www.oracle.com/br/database/">PostgreSQL</a>: Banco de dados para armazenar a aplicação.</p>
 <p align="justify"><a href="https://www.oracle.com/br/database/">MongoDB</a>: Banco de dados suportar os logs de auditoria.</p>
